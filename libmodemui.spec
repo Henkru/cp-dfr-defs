@@ -1,0 +1,16 @@
+x64:
+    remap "__imp_drvSetDefaultCommConfigW" "__imp_modemui$drvSetDefaultCommConfigW"
+    remap "__imp_drvSetDefaultCommConfigA" "__imp_modemui$drvSetDefaultCommConfigA"
+    remap "__imp_drvGetDefaultCommConfigW" "__imp_modemui$drvGetDefaultCommConfigW"
+    remap "__imp_drvGetDefaultCommConfigA" "__imp_modemui$drvGetDefaultCommConfigA"
+    remap "__imp_drvCommConfigDialogW" "__imp_modemui$drvCommConfigDialogW"
+    remap "__imp_drvCommConfigDialogA" "__imp_modemui$drvCommConfigDialogA"
+    remap "__imp_UnimodemGetExtendedCaps" "__imp_modemui$UnimodemGetExtendedCaps"
+    remap "__imp_UnimodemGetDefaultCommConfig" "__imp_modemui$UnimodemGetDefaultCommConfig"
+    remap "__imp_UnimodemDevConfigDialog" "__imp_modemui$UnimodemDevConfigDialog"
+    remap "__imp_QueryModemForCountrySettings" "__imp_modemui$QueryModemForCountrySettings"
+    remap "__imp_ModemPropPagesProvider" "__imp_modemui$ModemPropPagesProvider"
+    remap "__imp_ModemCplDlgProc" "__imp_modemui$ModemCplDlgProc"
+    remap "__imp_InvokeControlPanel" "__imp_modemui$InvokeControlPanel"
+    remap "__imp_CountryRunOnce" "__imp_modemui$CountryRunOnce"
+x86:

@@ -1,0 +1,17 @@
+x64:
+    remap "__imp_SetTipFunctionalityWorking" "__imp_msdtctm$SetTipFunctionalityWorking"
+    remap "__imp_GetTipFunctionalityWorking" "__imp_msdtctm$GetTipFunctionalityWorking"
+    remap "__imp_DtcMainExt" "__imp_msdtctm$DtcMainExt"
+    remap "__imp_DllUnregisterServer" "__imp_msdtctm$DllUnregisterServer"
+    remap "__imp_DllRegisterServer" "__imp_msdtctm$DllRegisterServer"
+    remap "__imp_DllGetClassObject" "__imp_msdtctm$DllGetClassObject"
+    remap "__imp_ASCWrapObject" "__imp_msdtctm$ASCWrapObject"
+    remap "__imp_ASCWrapClassFactory" "__imp_msdtctm$ASCWrapClassFactory"
+    remap "__imp_ASCGetSafeReference" "__imp_msdtctm$ASCGetSafeReference"
+    remap "__imp_ASCDeliverDeferred" "__imp_msdtctm$ASCDeliverDeferred"
+    remap "__imp_ASCDefer" "__imp_msdtctm$ASCDefer"
+    remap "__imp_?CreateThreadPool@@YAJXZ" "__imp_msdtctm$?CreateThreadPool@@YAJXZ"
+    remap "__imp_?CreateInstance@CXaTmCore@@SAJPEAPEAV1@PEAUIUnknown@@@Z" "__imp_msdtctm$?CreateInstance@CXaTmCore@@SAJPEAPEAV1@PEAUIUnknown@@@Z"
+    remap "__imp_?CreateInstance@CTm@@SAJPEAPEAV1@PEAUIUnknown@@@Z" "__imp_msdtctm$?CreateInstance@CTm@@SAJPEAPEAV1@PEAUIUnknown@@@Z"
+    remap "__imp_?Create@CUISCore@@SAJPEAPEAV1@PEAUIUnknown@@@Z" "__imp_msdtctm$?Create@CUISCore@@SAJPEAPEAV1@PEAUIUnknown@@@Z"
+x86:

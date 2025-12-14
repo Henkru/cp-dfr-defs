@@ -1,0 +1,17 @@
+x64:
+    remap "__imp_SweepControlsByLastAccessDate" "__imp_occache$SweepControlsByLastAccessDate"
+    remap "__imp_RemoveExpiredControls" "__imp_occache$RemoveExpiredControls"
+    remap "__imp_RemoveControlByName2" "__imp_occache$RemoveControlByName2"
+    remap "__imp_RemoveControlByName" "__imp_occache$RemoveControlByName"
+    remap "__imp_RemoveControlByHandle2" "__imp_occache$RemoveControlByHandle2"
+    remap "__imp_RemoveControlByHandle" "__imp_occache$RemoveControlByHandle"
+    remap "__imp_ReleaseControlHandle" "__imp_occache$ReleaseControlHandle"
+    remap "__imp_IsModuleRemovable" "__imp_occache$IsModuleRemovable"
+    remap "__imp_GetControlInfo" "__imp_occache$GetControlInfo"
+    remap "__imp_GetControlDependentFile" "__imp_occache$GetControlDependentFile"
+    remap "__imp_FindNextControlArch" "__imp_occache$FindNextControlArch"
+    remap "__imp_FindNextControl" "__imp_occache$FindNextControl"
+    remap "__imp_FindFirstControlArch" "__imp_occache$FindFirstControlArch"
+    remap "__imp_FindFirstControl" "__imp_occache$FindFirstControl"
+    remap "__imp_FindControlClose" "__imp_occache$FindControlClose"
+x86:

@@ -1,0 +1,15 @@
+x64:
+    remap "__imp_UsersRunDll" "__imp_netplwiz$UsersRunDll"
+    remap "__imp_SHDisconnectNetDrives" "__imp_netplwiz$SHDisconnectNetDrives"
+    remap "__imp_PublishRunDll" "__imp_netplwiz$PublishRunDll"
+    remap "__imp_PassportWizardRunDll" "__imp_netplwiz$PassportWizardRunDll"
+    remap "__imp_NetPlacesWizardDoModal" "__imp_netplwiz$NetPlacesWizardDoModal"
+    remap "__imp_NetAccessWizard" "__imp_netplwiz$NetAccessWizard"
+    remap "__imp_DllUnregisterServer" "__imp_netplwiz$DllUnregisterServer"
+    remap "__imp_DllRegisterServer" "__imp_netplwiz$DllRegisterServer"
+    remap "__imp_DllInstall" "__imp_netplwiz$DllInstall"
+    remap "__imp_DllGetClassObject" "__imp_netplwiz$DllGetClassObject"
+    remap "__imp_DllCanUnloadNow" "__imp_netplwiz$DllCanUnloadNow"
+    remap "__imp_ClearAutoLogon" "__imp_netplwiz$ClearAutoLogon"
+    remap "__imp_AddNetPlaceRunDll" "__imp_netplwiz$AddNetPlaceRunDll"
+x86:

@@ -1,0 +1,16 @@
+x64:
+    remap "__imp_SetCustomTextOutHandlerEx" "__imp_msftedit$SetCustomTextOutHandlerEx"
+    remap "__imp_RichListBoxWndProc" "__imp_msftedit$RichListBoxWndProc"
+    remap "__imp_RichEditWndProc" "__imp_msftedit$RichEditWndProc"
+    remap "__imp_RichEditANSIWndProc" "__imp_msftedit$RichEditANSIWndProc"
+    remap "__imp_RichEdit10ANSIWndProc" "__imp_msftedit$RichEdit10ANSIWndProc"
+    remap "__imp_RichComboBoxWndProc" "__imp_msftedit$RichComboBoxWndProc"
+    remap "__imp_REExtendedRegisterClass" "__imp_msftedit$REExtendedRegisterClass"
+    remap "__imp_IID_ITextServices" "__imp_msftedit$IID_ITextServices"
+    remap "__imp_IID_ITextHost2" "__imp_msftedit$IID_ITextHost2"
+    remap "__imp_IID_ITextHost" "__imp_msftedit$IID_ITextHost"
+    remap "__imp_IID_IRichEditOleCallback" "__imp_msftedit$IID_IRichEditOleCallback"
+    remap "__imp_IID_IRichEditOle" "__imp_msftedit$IID_IRichEditOle"
+    remap "__imp_DllGetVersion" "__imp_msftedit$DllGetVersion"
+    remap "__imp_CreateTextServices" "__imp_msftedit$CreateTextServices"
+x86:

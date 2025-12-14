@@ -1,0 +1,15 @@
+x64:
+    remap "__imp_OpenComponentLibraryTS" "__imp_catsrv$OpenComponentLibraryTS"
+    remap "__imp_OpenComponentLibrarySharedTS" "__imp_catsrv$OpenComponentLibrarySharedTS"
+    remap "__imp_GetCatalogCRMClerk" "__imp_catsrv$GetCatalogCRMClerk"
+    remap "__imp_DllUnregisterServer" "__imp_catsrv$DllUnregisterServer"
+    remap "__imp_DllRegisterServer" "__imp_catsrv$DllRegisterServer"
+    remap "__imp_DllGetClassObject" "__imp_catsrv$DllGetClassObject"
+    remap "__imp_DllCanUnloadNow" "__imp_catsrv$DllCanUnloadNow"
+    remap "__imp_CreateComponentLibraryTS" "__imp_catsrv$CreateComponentLibraryTS"
+    remap "__imp_?SaveWriteICR@@YAJPEAPEAUIComponentRecords@@@Z" "__imp_catsrv$?SaveWriteICR@@YAJPEAPEAUIComponentRecords@@@Z"
+    remap "__imp_?ReleaseReadICR@@YAXPEAPEAUIComponentRecords@@@Z" "__imp_catsrv$?ReleaseReadICR@@YAXPEAPEAUIComponentRecords@@@Z"
+    remap "__imp_?GetWriteICR@@YAJPEAPEAUIComponentRecords@@@Z" "__imp_catsrv$?GetWriteICR@@YAJPEAPEAUIComponentRecords@@@Z"
+    remap "__imp_?GetReadICR@@YAJHPEAPEAUIComponentRecords@@@Z" "__imp_catsrv$?GetReadICR@@YAJHPEAPEAUIComponentRecords@@@Z"
+    remap "__imp_?CancelWriteICR@@YAJPEAPEAUIComponentRecords@@@Z" "__imp_catsrv$?CancelWriteICR@@YAJPEAPEAUIComponentRecords@@@Z"
+x86:

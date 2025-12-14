@@ -1,0 +1,16 @@
+x64:
+    remap "__imp_imageview_fullscreenW" "__imp_shimgvw$imageview_fullscreenW"
+    remap "__imp_ImageView_PrintToW" "__imp_shimgvw$ImageView_PrintToW"
+    remap "__imp_ImageView_PrintToA" "__imp_shimgvw$ImageView_PrintToA"
+    remap "__imp_ImageView_PrintTo" "__imp_shimgvw$ImageView_PrintTo"
+    remap "__imp_ImageView_FullscreenW" "__imp_shimgvw$ImageView_FullscreenW"
+    remap "__imp_ImageView_FullscreenA" "__imp_shimgvw$ImageView_FullscreenA"
+    remap "__imp_ImageView_Fullscreen" "__imp_shimgvw$ImageView_Fullscreen"
+    remap "__imp_ImageView_COMServer" "__imp_shimgvw$ImageView_COMServer"
+    remap "__imp_DllUnregisterServer" "__imp_shimgvw$DllUnregisterServer"
+    remap "__imp_DllRegisterServer" "__imp_shimgvw$DllRegisterServer"
+    remap "__imp_DllInstall" "__imp_shimgvw$DllInstall"
+    remap "__imp_DllGetClassObject" "__imp_shimgvw$DllGetClassObject"
+    remap "__imp_DllCanUnloadNow" "__imp_shimgvw$DllCanUnloadNow"
+    remap "__imp_ConvertDIBSECTIONToThumbnail" "__imp_shimgvw$ConvertDIBSECTIONToThumbnail"
+x86:

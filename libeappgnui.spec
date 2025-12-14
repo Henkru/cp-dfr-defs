@@ -1,0 +1,16 @@
+x64:
+    remap "__imp_EapPeerInvokeIdentityUI" "__imp_eappgnui$EapPeerInvokeIdentityUI"
+    remap "__imp_EapPeerFreeMemory" "__imp_eappgnui$EapPeerFreeMemory"
+    remap "__imp_EapPeerFreeErrorMemory" "__imp_eappgnui$EapPeerFreeErrorMemory"
+    remap "__imp_DllUnregisterServer" "__imp_eappgnui$DllUnregisterServer"
+    remap "__imp_DllRegisterServer" "__imp_eappgnui$DllRegisterServer"
+    remap "__imp_DllGetClassObject" "__imp_eappgnui$DllGetClassObject"
+    remap "__imp_DllCanUnloadNow" "__imp_eappgnui$DllCanUnloadNow"
+x86:
+    remap "__imp__EapPeerInvokeIdentityUI@44" "__imp__eappgnui$EapPeerInvokeIdentityUI@44"
+    remap "__imp__EapPeerFreeMemory@4" "__imp__eappgnui$EapPeerFreeMemory@4"
+    remap "__imp__EapPeerFreeErrorMemory@4" "__imp__eappgnui$EapPeerFreeErrorMemory@4"
+    remap "__imp__DllUnregisterServer@4" "__imp__eappgnui$DllUnregisterServer@4"
+    remap "__imp__DllRegisterServer@4" "__imp__eappgnui$DllRegisterServer@4"
+    remap "__imp__DllGetClassObject@12" "__imp__eappgnui$DllGetClassObject@12"
+    remap "__imp__DllCanUnloadNow@0" "__imp__eappgnui$DllCanUnloadNow@0"

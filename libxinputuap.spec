@@ -1,0 +1,16 @@
+x64:
+    remap "__imp_XInputSetState" "__imp_xinputuap$XInputSetState"
+    remap "__imp_XInputGetState" "__imp_xinputuap$XInputGetState"
+    remap "__imp_XInputGetKeystroke" "__imp_xinputuap$XInputGetKeystroke"
+    remap "__imp_XInputGetCapabilities" "__imp_xinputuap$XInputGetCapabilities"
+    remap "__imp_XInputGetBatteryInformation" "__imp_xinputuap$XInputGetBatteryInformation"
+    remap "__imp_XInputGetAudioDeviceIds" "__imp_xinputuap$XInputGetAudioDeviceIds"
+    remap "__imp_XInputEnable" "__imp_xinputuap$XInputEnable"
+x86:
+    remap "__imp__XInputSetState@8" "__imp__xinputuap$XInputSetState@8"
+    remap "__imp__XInputGetState@8" "__imp__xinputuap$XInputGetState@8"
+    remap "__imp__XInputGetKeystroke@12" "__imp__xinputuap$XInputGetKeystroke@12"
+    remap "__imp__XInputGetCapabilities@12" "__imp__xinputuap$XInputGetCapabilities@12"
+    remap "__imp__XInputGetBatteryInformation@12" "__imp__xinputuap$XInputGetBatteryInformation@12"
+    remap "__imp__XInputGetAudioDeviceIds@20" "__imp__xinputuap$XInputGetAudioDeviceIds@20"
+    remap "__imp__XInputEnable@4" "__imp__xinputuap$XInputEnable@4"

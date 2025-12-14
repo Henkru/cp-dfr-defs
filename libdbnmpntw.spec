@@ -1,0 +1,18 @@
+x64:
+    remap "__imp_ConnectionWriteOOB" "__imp_dbnmpntw$ConnectionWriteOOB"
+    remap "__imp_ConnectionWrite" "__imp_dbnmpntw$ConnectionWrite"
+    remap "__imp_ConnectionVer" "__imp_dbnmpntw$ConnectionVer"
+    remap "__imp_ConnectionTransact" "__imp_dbnmpntw$ConnectionTransact"
+    remap "__imp_ConnectionStatus" "__imp_dbnmpntw$ConnectionStatus"
+    remap "__imp_ConnectionServerEnumW" "__imp_dbnmpntw$ConnectionServerEnumW"
+    remap "__imp_ConnectionServerEnum" "__imp_dbnmpntw$ConnectionServerEnum"
+    remap "__imp_ConnectionRead" "__imp_dbnmpntw$ConnectionRead"
+    remap "__imp_ConnectionOpenW" "__imp_dbnmpntw$ConnectionOpenW"
+    remap "__imp_ConnectionOpen" "__imp_dbnmpntw$ConnectionOpen"
+    remap "__imp_ConnectionObjectSize" "__imp_dbnmpntw$ConnectionObjectSize"
+    remap "__imp_ConnectionMode" "__imp_dbnmpntw$ConnectionMode"
+    remap "__imp_ConnectionErrorW" "__imp_dbnmpntw$ConnectionErrorW"
+    remap "__imp_ConnectionError" "__imp_dbnmpntw$ConnectionError"
+    remap "__imp_ConnectionClose" "__imp_dbnmpntw$ConnectionClose"
+    remap "__imp_ConnectionCheckForData" "__imp_dbnmpntw$ConnectionCheckForData"
+x86:

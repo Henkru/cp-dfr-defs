@@ -1,0 +1,18 @@
+x64:
+    remap "__imp_WindowsUpdateDriverSearchingPolicyUi" "__imp_newdev$WindowsUpdateDriverSearchingPolicyUi"
+    remap "__imp_UpdateDriverForPlugAndPlayDevicesW" "__imp_newdev$UpdateDriverForPlugAndPlayDevicesW"
+    remap "__imp_UpdateDriverForPlugAndPlayDevicesA" "__imp_newdev$UpdateDriverForPlugAndPlayDevicesA"
+    remap "__imp_RollbackDriver" "__imp_newdev$RollbackDriver"
+    remap "__imp_InstallWindowsUpdateDriver" "__imp_newdev$InstallWindowsUpdateDriver"
+    remap "__imp_InstallSelectedDriver" "__imp_newdev$InstallSelectedDriver"
+    remap "__imp_InstallSelectedDevice" "__imp_newdev$InstallSelectedDevice"
+    remap "__imp_InstallNewDevice" "__imp_newdev$InstallNewDevice"
+    remap "__imp_InstallDevInstEx" "__imp_newdev$InstallDevInstEx"
+    remap "__imp_InstallDevInst" "__imp_newdev$InstallDevInst"
+    remap "__imp_DevInstallW" "__imp_newdev$DevInstallW"
+    remap "__imp_ClientSideInstallW" "__imp_newdev$ClientSideInstallW"
+x86:
+    remap "__imp__UpdateDriverForPlugAndPlayDevicesW" "__imp__newdev$UpdateDriverForPlugAndPlayDevicesW"
+    remap "__imp__UpdateDriverForPlugAndPlayDevicesA@20" "__imp__newdev$UpdateDriverForPlugAndPlayDevicesA@20"
+    remap "__imp__UpdateDriverForPlugAndPlayDevicesW@20" "__imp__newdev$UpdateDriverForPlugAndPlayDevicesW@20"
+    remap "__imp__UpdateDriverForPlugAndPlayDevicesA" "__imp__newdev$UpdateDriverForPlugAndPlayDevicesA"
