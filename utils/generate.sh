@@ -498,7 +498,8 @@ libs=(
 ./cf-remap-mingw.sh ntdll kernel32 user32 ws2_32 winhttp wininet ole32 rpcrt4 psapi > ../dfr_comprehensive.spec
 ./cf-remap-mingw.sh "${libs[@]}" > ../dfr_windows.spec
 
+mkdir -p ../libs
 for i in "${libs[@]}"; do
-  ./cf-remap-mingw.sh "$i" > "../lib$i.spec"
+  ./cf-remap-mingw.sh "$i" > "../libs/lib$i.spec"
 done
 
