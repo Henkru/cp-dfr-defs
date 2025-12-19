@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_MoInitMediaType" "__imp_msdmo$MoInitMediaType"
     remap "__imp_MoFreeMediaType" "__imp_msdmo$MoFreeMediaType"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WinHttpWriteProxySettings" "__imp_winhttp$WinHttpWriteProxySettings"
     remap "__imp_WinHttpWriteData" "__imp_winhttp$WinHttpWriteData"

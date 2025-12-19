@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_onexit" "__imp_ucrtbase$onexit"
     remap "__imp_GetVersion" "__imp_ucrtbase$GetVersion"

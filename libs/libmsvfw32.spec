@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_VideoForWindowsVersion" "__imp_msvfw32$VideoForWindowsVersion"
     remap "__imp_StretchDIB" "__imp_msvfw32$StretchDIB"

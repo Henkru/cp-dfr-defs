@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WizardFree" "__imp_cryptui$WizardFree"
     remap "__imp_RetrievePKCS7FromCA" "__imp_cryptui$RetrievePKCS7FromCA"

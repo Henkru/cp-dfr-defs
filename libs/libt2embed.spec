@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_TTRunValidationTestsEx" "__imp_t2embed$TTRunValidationTestsEx"
     remap "__imp_TTRunValidationTests" "__imp_t2embed$TTRunValidationTests"

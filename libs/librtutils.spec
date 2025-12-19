@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_TraceVprintfExW" "__imp_rtutils$TraceVprintfExW"
     remap "__imp_TraceVprintfExA" "__imp_rtutils$TraceVprintfExA"

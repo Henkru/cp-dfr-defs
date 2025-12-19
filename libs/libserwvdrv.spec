@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_wodMessage" "__imp_serwvdrv$wodMessage"
     remap "__imp_widMessage" "__imp_serwvdrv$widMessage"

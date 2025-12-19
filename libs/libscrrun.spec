@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_DoOpenPipeStream" "__imp_scrrun$DoOpenPipeStream"
     remap "__imp_DllUnregisterServer" "__imp_scrrun$DllUnregisterServer"

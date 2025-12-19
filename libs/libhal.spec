@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_@KfReleaseSpinLock@8" "__imp_hal$@KfReleaseSpinLock@8"
     remap "__imp_@KfRaiseIrql@4" "__imp_hal$@KfRaiseIrql@4"

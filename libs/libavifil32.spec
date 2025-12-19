@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_IID_IGetFrame" "__imp_avifil32$IID_IGetFrame"
     remap "__imp_IID_IAVIStream" "__imp_avifil32$IID_IAVIStream"

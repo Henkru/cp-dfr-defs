@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_DeviceProperties_RunDLLW" "__imp_devmgr$DeviceProperties_RunDLLW"
     remap "__imp_DeviceProperties_RunDLLA" "__imp_devmgr$DeviceProperties_RunDLLA"

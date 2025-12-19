@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_com_ms_osp_ospmrshl_toJava64" "__imp_mshtml$com_ms_osp_ospmrshl_toJava64"
     remap "__imp_com_ms_osp_ospmrshl_releaseByValExternal64" "__imp_mshtml$com_ms_osp_ospmrshl_releaseByValExternal64"

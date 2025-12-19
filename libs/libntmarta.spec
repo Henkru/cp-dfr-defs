@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_EventNameFree" "__imp_ntmarta$EventNameFree"
     remap "__imp_EventGuidToName" "__imp_ntmarta$EventGuidToName"

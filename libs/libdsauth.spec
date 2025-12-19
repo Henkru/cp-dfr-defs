@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_StoreSetSearchSubTree" "__imp_dsauth$StoreSetSearchSubTree"
     remap "__imp_StoreSetSearchOneLevel" "__imp_dsauth$StoreSetSearchOneLevel"

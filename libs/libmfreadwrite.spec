@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_MFCreateSourceReaderFromURL" "__imp_mfreadwrite$MFCreateSourceReaderFromURL"
     remap "__imp_MFCreateSourceReaderFromMediaSource" "__imp_mfreadwrite$MFCreateSourceReaderFromMediaSource"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SerialPortPropPageProvider" "__imp_msports$SerialPortPropPageProvider"
     remap "__imp_SerialDisplayAdvancedSettings" "__imp_msports$SerialDisplayAdvancedSettings"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WslUnregisterDistribution" "__imp_wslapi$WslUnregisterDistribution"
     remap "__imp_WslRegisterDistribution" "__imp_wslapi$WslRegisterDistribution"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WlanUtf8SsidToDisplayName" "__imp_wlanutil$WlanUtf8SsidToDisplayName"
     remap "__imp_WlanStringToSsid" "__imp_wlanutil$WlanStringToSsid"

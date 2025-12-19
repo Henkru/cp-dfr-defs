@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_PartitionAccessCheck" "__imp_colbact$PartitionAccessCheck"
     remap "__imp_GetDefaultPartitionForSid" "__imp_colbact$GetDefaultPartitionForSid"

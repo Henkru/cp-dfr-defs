@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_NDdeTrustedShareEnumW" "__imp_nddeapi$NDdeTrustedShareEnumW"
     remap "__imp_NDdeTrustedShareEnumA" "__imp_nddeapi$NDdeTrustedShareEnumA"

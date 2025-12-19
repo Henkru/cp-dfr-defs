@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_OpenTapiPerformanceData" "__imp_tapiperf$OpenTapiPerformanceData"
     remap "__imp_CollectTapiPerformanceData" "__imp_tapiperf$CollectTapiPerformanceData"

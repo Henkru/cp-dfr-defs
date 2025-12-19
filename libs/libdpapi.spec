@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_iCryptIdentifyProtection" "__imp_dpapi$iCryptIdentifyProtection"
     remap "__imp_CryptUpdateProtectedState" "__imp_dpapi$CryptUpdateProtectedState"

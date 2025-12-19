@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WS_HTTP2_INITIAL_CONNECTION__new" "__imp_rpchttp$WS_HTTP2_INITIAL_CONNECTION__new"
     remap "__imp_WS_HTTP2_CONNECTION__Initialize" "__imp_rpchttp$WS_HTTP2_CONNECTION__Initialize"

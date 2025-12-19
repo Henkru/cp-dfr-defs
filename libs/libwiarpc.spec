@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WiaEventsTerminate" "__imp_wiarpc$WiaEventsTerminate"
     remap "__imp_WiaEventsInitialize" "__imp_wiarpc$WiaEventsInitialize"

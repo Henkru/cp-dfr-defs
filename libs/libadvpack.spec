@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UserUnInstStubWrapperW" "__imp_advpack$UserUnInstStubWrapperW"
     remap "__imp_UserUnInstStubWrapperA" "__imp_advpack$UserUnInstStubWrapperA"

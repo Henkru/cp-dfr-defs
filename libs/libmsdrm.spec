@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_DRMpFreeMemory" "__imp_msdrm$DRMpFreeMemory"
     remap "__imp_DRMpFileUnprotect" "__imp_msdrm$DRMpFileUnprotect"

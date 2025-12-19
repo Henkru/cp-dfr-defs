@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_HotPlugWarmEjectVetoedW" "__imp_hotplug$HotPlugWarmEjectVetoedW"
     remap "__imp_HotPlugStandbyVetoedW" "__imp_hotplug$HotPlugStandbyVetoedW"

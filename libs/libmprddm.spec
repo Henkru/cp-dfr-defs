@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_RasAuthProviderTerminate" "__imp_mprddm$RasAuthProviderTerminate"
     remap "__imp_RasAuthProviderInitialize" "__imp_mprddm$RasAuthProviderInitialize"

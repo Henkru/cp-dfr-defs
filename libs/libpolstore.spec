@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WriteDirectoryPolicyToWMI" "__imp_polstore$WriteDirectoryPolicyToWMI"
     remap "__imp_IPSecUnassignPolicy" "__imp_polstore$IPSecUnassignPolicy"

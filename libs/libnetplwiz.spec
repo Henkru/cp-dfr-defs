@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UsersRunDll" "__imp_netplwiz$UsersRunDll"
     remap "__imp_SHDisconnectNetDrives" "__imp_netplwiz$SHDisconnectNetDrives"

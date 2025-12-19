@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ServiceInit" "__imp_lsasrv$ServiceInit"
     remap "__imp_LsarSetTrustedDomainInfoByName" "__imp_lsasrv$LsarSetTrustedDomainInfoByName"

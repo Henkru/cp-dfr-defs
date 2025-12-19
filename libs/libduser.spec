@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WaitMessageEx" "__imp_duser$WaitMessageEx"
     remap "__imp_UtilSetBackground" "__imp_duser$UtilSetBackground"

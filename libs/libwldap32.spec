@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ldap_value_free_len" "__imp_wldap32$ldap_value_free_len"
     remap "__imp_ldap_value_freeW" "__imp_wldap32$ldap_value_freeW"

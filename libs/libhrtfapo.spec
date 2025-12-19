@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_IsHrtfApoAvailable" "__imp_hrtfapo$IsHrtfApoAvailable"
     remap "__imp_GetHrtfEngineMinFrameCount" "__imp_hrtfapo$GetHrtfEngineMinFrameCount"

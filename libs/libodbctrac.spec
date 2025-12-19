@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_TraceVersion" "__imp_odbctrac$TraceVersion"
     remap "__imp_TraceVSControl" "__imp_odbctrac$TraceVSControl"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WlanWfdStopGO" "__imp_wlanapi$WlanWfdStopGO"
     remap "__imp_WlanWfdStartGO" "__imp_wlanapi$WlanWfdStartGO"

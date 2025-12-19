@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WpdClassInstaller" "__imp_wpd_ci$WpdClassInstaller"
     remap "__imp_RescanBus" "__imp_wpd_ci$RescanBus"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UninitializeEapHost" "__imp_eapphost$UninitializeEapHost"
     remap "__imp_StopServiceOnLowPower" "__imp_eapphost$StopServiceOnLowPower"

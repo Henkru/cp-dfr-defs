@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UABGetCertificate" "__imp_dxva2$UABGetCertificate"
     remap "__imp_SetVCPFeature" "__imp_dxva2$SetVCPFeature"

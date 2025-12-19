@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_URLQualifyW" "__imp_shdocvw$URLQualifyW"
     remap "__imp_URLQualifyA" "__imp_shdocvw$URLQualifyA"

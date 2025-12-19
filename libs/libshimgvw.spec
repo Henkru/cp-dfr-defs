@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_imageview_fullscreenW" "__imp_shimgvw$imageview_fullscreenW"
     remap "__imp_ImageView_PrintToW" "__imp_shimgvw$ImageView_PrintToW"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WaitForUserPolicyForegroundProcessing" "__imp_userenv$WaitForUserPolicyForegroundProcessing"
     remap "__imp_WaitForMachinePolicyForegroundProcessing" "__imp_userenv$WaitForMachinePolicyForegroundProcessing"

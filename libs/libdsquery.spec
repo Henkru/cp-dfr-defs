@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_OpenSavedDsQueryW" "__imp_dsquery$OpenSavedDsQueryW"
     remap "__imp_OpenSavedDsQuery" "__imp_dsquery$OpenSavedDsQuery"

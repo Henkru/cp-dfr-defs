@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WinStationWaitSystemEvent" "__imp_winsta$WinStationWaitSystemEvent"
     remap "__imp_WinStationVirtualOpen" "__imp_winsta$WinStationVirtualOpen"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_TermDACInstance" "__imp_msdtcuiu$TermDACInstance"
     remap "__imp_TermDACDLL" "__imp_msdtcuiu$TermDACDLL"

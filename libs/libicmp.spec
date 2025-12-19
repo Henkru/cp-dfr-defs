@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_register_icmp" "__imp_icmp$register_icmp"
     remap "__imp_do_echo_req" "__imp_icmp$do_echo_req"

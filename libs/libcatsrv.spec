@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_OpenComponentLibraryTS" "__imp_catsrv$OpenComponentLibraryTS"
     remap "__imp_OpenComponentLibrarySharedTS" "__imp_catsrv$OpenComponentLibrarySharedTS"

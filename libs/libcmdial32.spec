@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_RasCustomHangUp" "__imp_cmdial32$RasCustomHangUp"
     remap "__imp_RasCustomEntryDlg" "__imp_cmdial32$RasCustomEntryDlg"

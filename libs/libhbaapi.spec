@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SMHBA_SetPersistentBinding" "__imp_hbaapi$SMHBA_SetPersistentBinding"
     remap "__imp_SMHBA_SetBindingSupport" "__imp_hbaapi$SMHBA_SetBindingSupport"

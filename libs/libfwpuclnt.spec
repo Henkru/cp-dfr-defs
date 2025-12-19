@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WfpRIOSuspend" "__imp_fwpuclnt$WfpRIOSuspend"
     remap "__imp_WfpRIOSend" "__imp_fwpuclnt$WfpRIOSend"

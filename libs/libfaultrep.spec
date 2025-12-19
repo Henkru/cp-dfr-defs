@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ReportKernelFaultDWW" "__imp_faultrep$ReportKernelFaultDWW"
     remap "__imp_ReportHang" "__imp_faultrep$ReportHang"

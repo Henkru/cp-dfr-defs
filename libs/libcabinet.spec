@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SetDecompressorInformation" "__imp_cabinet$SetDecompressorInformation"
     remap "__imp_SetCompressorInformation" "__imp_cabinet$SetCompressorInformation"

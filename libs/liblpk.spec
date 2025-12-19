@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ftsWordBreak" "__imp_lpk$ftsWordBreak"
     remap "__imp_LpkUseGDIWidthCache" "__imp_lpk$LpkUseGDIWidthCache"

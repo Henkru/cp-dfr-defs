@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_RmStartSession" "__imp_rstrtmgr$RmStartSession"
     remap "__imp_RmShutdown" "__imp_rstrtmgr$RmShutdown"

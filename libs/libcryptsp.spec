@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SystemFunction035" "__imp_cryptsp$SystemFunction035"
     remap "__imp_SystemFunction033" "__imp_cryptsp$SystemFunction033"

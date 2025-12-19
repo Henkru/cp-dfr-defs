@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SearchInTable" "__imp_rtm$SearchInTable"
     remap "__imp_RtmWriteInstanceConfig" "__imp_rtm$RtmWriteInstanceConfig"

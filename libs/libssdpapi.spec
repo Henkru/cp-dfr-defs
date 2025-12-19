@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SsdpStartup" "__imp_ssdpapi$SsdpStartup"
     remap "__imp_SsdpCleanup" "__imp_ssdpapi$SsdpCleanup"

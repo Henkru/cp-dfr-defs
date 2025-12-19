@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UpdatePanningFeedback" "__imp_uxtheme$UpdatePanningFeedback"
     remap "__imp_ThemeInitApiHook" "__imp_uxtheme$ThemeInitApiHook"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_?Unsubscribe@CVssWriter@@QAGJXZ" "__imp_vssapi$?Unsubscribe@CVssWriter@@QAGJXZ"
     remap "__imp_?Uninitialize@CVssJetWriter@@QAGXXZ" "__imp_vssapi$?Uninitialize@CVssJetWriter@@QAGXXZ"

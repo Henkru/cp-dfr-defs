@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_DMLCreateDevice1" "__imp_directml$DMLCreateDevice1"
     remap "__imp_DMLCreateDevice" "__imp_directml$DMLCreateDevice"

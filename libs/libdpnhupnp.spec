@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_DllUnregisterServer" "__imp_dpnhupnp$DllUnregisterServer"
     remap "__imp_DllRegisterServer" "__imp_dpnhupnp$DllRegisterServer"

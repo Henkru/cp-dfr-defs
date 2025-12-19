@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WinntIsWorkstation" "__imp_uniplat$WinntIsWorkstation"
     remap "__imp_UnimodemWriteFileEx" "__imp_uniplat$UnimodemWriteFileEx"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_GetDeviceID" "__imp_dsound$GetDeviceID"
     remap "__imp_DllGetClassObject" "__imp_dsound$DllGetClassObject"

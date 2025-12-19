@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_LssbGetVisibleDcpInSubline" "__imp_msls31$LssbGetVisibleDcpInSubline"
     remap "__imp_LssbGetPlsrunsFromSubline" "__imp_msls31$LssbGetPlsrunsFromSubline"

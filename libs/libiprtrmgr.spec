@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_StartRouter" "__imp_iprtrmgr$StartRouter"
     remap "__imp_MapInterfaceToRouterIfType" "__imp_iprtrmgr$MapInterfaceToRouterIfType"

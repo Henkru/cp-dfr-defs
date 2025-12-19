@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_NPOpenEnum" "__imp_drprov$NPOpenEnum"
     remap "__imp_NPGetUniversalName" "__imp_drprov$NPGetUniversalName"

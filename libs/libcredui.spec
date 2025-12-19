@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SspiUpdateCredentials" "__imp_credui$SspiUpdateCredentials"
     remap "__imp_SspiUnmarshalCredUIContext" "__imp_credui$SspiUnmarshalCredUIContext"

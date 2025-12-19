@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WriteLogRestartArea" "__imp_clfsw32$WriteLogRestartArea"
     remap "__imp_ValidateLog" "__imp_clfsw32$ValidateLog"

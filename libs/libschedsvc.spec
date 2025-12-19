@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SysPrepRestore" "__imp_schedsvc$SysPrepRestore"
     remap "__imp_SysPrepCallback" "__imp_schedsvc$SysPrepCallback"

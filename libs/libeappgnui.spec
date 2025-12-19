@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_EapPeerInvokeIdentityUI" "__imp_eappgnui$EapPeerInvokeIdentityUI"
     remap "__imp_EapPeerFreeMemory" "__imp_eappgnui$EapPeerFreeMemory"

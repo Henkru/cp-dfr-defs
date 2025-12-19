@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ResUtilVerifyService" "__imp_resutils$ResUtilVerifyService"
     remap "__imp_ResUtilVerifyResourceService" "__imp_resutils$ResUtilVerifyResourceService"

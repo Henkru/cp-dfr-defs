@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_utrans_unregisterID" "__imp_icu$utrans_unregisterID"
     remap "__imp_utrans_transUChars" "__imp_icu$utrans_transUChars"

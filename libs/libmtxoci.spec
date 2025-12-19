@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_osetpi" "__imp_mtxoci$osetpi"
     remap "__imp_orol" "__imp_mtxoci$orol"

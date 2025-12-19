@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SxspRunDllDeleteDirectoryW" "__imp_sxs$SxspRunDllDeleteDirectoryW"
     remap "__imp_SxspRunDllDeleteDirectory" "__imp_sxs$SxspRunDllDeleteDirectory"

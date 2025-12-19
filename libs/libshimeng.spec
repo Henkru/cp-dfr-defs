@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SE_ShimNTVDM" "__imp_shimeng$SE_ShimNTVDM"
     remap "__imp_SE_RemoveNTVDMTask" "__imp_shimeng$SE_RemoveNTVDMTask"

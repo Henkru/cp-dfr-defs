@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SetCPSUIUserData" "__imp_compstui$SetCPSUIUserData"
     remap "__imp_GetCPSUIUserData" "__imp_compstui$GetCPSUIUserData"

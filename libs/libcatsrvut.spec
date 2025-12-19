@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WinlogonHandlePendingInfOperations" "__imp_catsrvut$WinlogonHandlePendingInfOperations"
     remap "__imp_SysprepComplus2" "__imp_catsrvut$SysprepComplus2"

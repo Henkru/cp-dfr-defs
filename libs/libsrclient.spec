@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SRUpdateMonitoredListW" "__imp_srclient$SRUpdateMonitoredListW"
     remap "__imp_SRUpdateMonitoredListA" "__imp_srclient$SRUpdateMonitoredListA"

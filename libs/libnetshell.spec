@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_StartNCW" "__imp_netshell$StartNCW"
     remap "__imp_RepairConnection" "__imp_netshell$RepairConnection"

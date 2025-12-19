@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SslVerifySignature" "__imp_ncrypt$SslVerifySignature"
     remap "__imp_SslSignHash" "__imp_ncrypt$SslSignHash"

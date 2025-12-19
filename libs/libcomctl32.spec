@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UninitializeFlatSB" "__imp_comctl32$UninitializeFlatSB"
     remap "__imp_TaskDialogIndirect" "__imp_comctl32$TaskDialogIndirect"

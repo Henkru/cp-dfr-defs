@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WriteDnsNrptRulesToRegistry" "__imp_dnsapi$WriteDnsNrptRulesToRegistry"
     remap "__imp_Util_IsRunningOnXboxOne" "__imp_dnsapi$Util_IsRunningOnXboxOne"

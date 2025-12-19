@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_OpenPerformanceData" "__imp_esentprf$OpenPerformanceData"
     remap "__imp_CollectPerformanceData" "__imp_esentprf$CollectPerformanceData"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WinBomConfigureWindowsFirewall" "__imp_hnetcfg$WinBomConfigureWindowsFirewall"
     remap "__imp_IcfSubNetsToString" "__imp_hnetcfg$IcfSubNetsToString"

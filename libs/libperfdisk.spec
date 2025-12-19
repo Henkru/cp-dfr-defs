@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_OpenDiskObject" "__imp_perfdisk$OpenDiskObject"
     remap "__imp_CollectDiskObjectData" "__imp_perfdisk$CollectDiskObjectData"

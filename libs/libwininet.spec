@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UrlZonesDetach" "__imp_wininet$UrlZonesDetach"
     remap "__imp_UrlCacheUpdateEntryExtraData" "__imp_wininet$UrlCacheUpdateEntryExtraData"

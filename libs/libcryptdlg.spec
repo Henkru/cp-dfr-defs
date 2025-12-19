@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_GetFriendlyNameOfCertW" "__imp_cryptdlg$GetFriendlyNameOfCertW"
     remap "__imp_GetFriendlyNameOfCertA" "__imp_cryptdlg$GetFriendlyNameOfCertA"

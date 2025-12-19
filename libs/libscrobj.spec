@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_GenerateTypeLibW" "__imp_scrobj$GenerateTypeLibW"
     remap "__imp_GenerateTypeLib" "__imp_scrobj$GenerateTypeLib"

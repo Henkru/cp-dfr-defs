@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SvcEntry_PlugPlay" "__imp_umpnpmgr$SvcEntry_PlugPlay"
     remap "__imp_RegisterServiceNotification" "__imp_umpnpmgr$RegisterServiceNotification"

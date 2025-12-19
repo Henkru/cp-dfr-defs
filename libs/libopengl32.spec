@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_wglUseFontOutlinesW" "__imp_opengl32$wglUseFontOutlinesW"
     remap "__imp_wglUseFontOutlinesA" "__imp_opengl32$wglUseFontOutlinesA"

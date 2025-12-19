@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SsiCredentialsUpdateNotify" "__imp_wdigest$SsiCredentialsUpdateNotify"
     remap "__imp_SsiCredentialsUpdateFree" "__imp_wdigest$SsiCredentialsUpdateFree"

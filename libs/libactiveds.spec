@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SecurityDescriptorToBinarySD" "__imp_activeds$SecurityDescriptorToBinarySD"
     remap "__imp_ReallocADsStr" "__imp_activeds$ReallocADsStr"

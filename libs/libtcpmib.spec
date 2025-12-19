@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_Ping" "__imp_tcpmib$Ping"
     remap "__imp_GetTcpMibPtr" "__imp_tcpmib$GetTcpMibPtr"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_sethostname" "__imp_mswsock$sethostname"
     remap "__imp_s_perror" "__imp_mswsock$s_perror"

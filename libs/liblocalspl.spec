@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SplXcvData" "__imp_localspl$SplXcvData"
     remap "__imp_SplSetPrinterExtraEx" "__imp_localspl$SplSetPrinterExtraEx"

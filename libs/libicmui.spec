@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SetupColorMatchingW" "__imp_icmui$SetupColorMatchingW"
     remap "__imp_SetupColorMatchingA" "__imp_icmui$SetupColorMatchingA"

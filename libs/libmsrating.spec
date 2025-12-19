@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_VerifySupervisorPassword" "__imp_msrating$VerifySupervisorPassword"
     remap "__imp_RatingSetupUIW" "__imp_msrating$RatingSetupUIW"

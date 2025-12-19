@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_RutlStrDup" "__imp_rasmontr$RutlStrDup"
     remap "__imp_RutlParse" "__imp_rasmontr$RutlParse"

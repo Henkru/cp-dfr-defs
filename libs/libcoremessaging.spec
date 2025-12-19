@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ServiceMain" "__imp_coremessaging$ServiceMain"
     remap "__imp_MsgStringCreateStack" "__imp_coremessaging$MsgStringCreateStack"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WHvEmulatorTryMmioEmulation" "__imp_winhvemulation$WHvEmulatorTryMmioEmulation"
     remap "__imp_WHvEmulatorTryIoEmulation" "__imp_winhvemulation$WHvEmulatorTryIoEmulation"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_PhoneBookUnload" "__imp_cmpbk32$PhoneBookUnload"
     remap "__imp_PhoneBookParseInfoA" "__imp_cmpbk32$PhoneBookParseInfoA"

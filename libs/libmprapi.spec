@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_RasPrivilegeAndCallBackNumber" "__imp_mprapi$RasPrivilegeAndCallBackNumber"
     remap "__imp_RasAdminUserSetInfo" "__imp_mprapi$RasAdminUserSetInfo"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_MsCatFreeHashTag" "__imp_mscat32$MsCatFreeHashTag"
     remap "__imp_MsCatConstructHashTag" "__imp_mscat32$MsCatConstructHashTag"

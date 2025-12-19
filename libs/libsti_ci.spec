@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WiaRemoveDevice" "__imp_sti_ci$WiaRemoveDevice"
     remap "__imp_WiaDestroyPortList" "__imp_sti_ci$WiaDestroyPortList"

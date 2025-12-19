@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_DllGetClassObject" "__imp_dssec$DllGetClassObject"
     remap "__imp_DllCanUnloadNow" "__imp_dssec$DllCanUnloadNow"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WaitForTSConnectionsPolicyChanges" "__imp_regapi$WaitForTSConnectionsPolicyChanges"
     remap "__imp_UsrPropSetValue" "__imp_regapi$UsrPropSetValue"

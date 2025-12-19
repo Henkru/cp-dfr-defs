@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SafeRef" "__imp_comsvcs$SafeRef"
     remap "__imp_RegisterComEvents" "__imp_comsvcs$RegisterComEvents"

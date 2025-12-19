@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SRGetCplPropPage" "__imp_srrstr$SRGetCplPropPage"
     remap "__imp_ResumeRestore" "__imp_srrstr$ResumeRestore"

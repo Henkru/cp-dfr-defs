@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_LoadTextFilter" "__imp_query$LoadTextFilter"
     remap "__imp_LoadIFilterEx" "__imp_query$LoadIFilterEx"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UpdateHMDEmulationStatus" "__imp_dxgi$UpdateHMDEmulationStatus"
     remap "__imp_SetAppCompatStringPointer" "__imp_dxgi$SetAppCompatStringPointer"

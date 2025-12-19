@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WofWimUpdateEntry" "__imp_wofutil$WofWimUpdateEntry"
     remap "__imp_WofWimSuspendEntry" "__imp_wofutil$WofWimSuspendEntry"

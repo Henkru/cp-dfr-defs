@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SHGetFolderPathW" "__imp_shfolder$SHGetFolderPathW"
     remap "__imp_SHGetFolderPathA" "__imp_shfolder$SHGetFolderPathA"

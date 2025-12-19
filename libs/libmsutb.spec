@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SetRegisterLangBand" "__imp_msutb$SetRegisterLangBand"
     remap "__imp_GetPopupTipbar" "__imp_msutb$GetPopupTipbar"

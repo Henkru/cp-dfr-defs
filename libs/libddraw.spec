@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SetAppCompatData" "__imp_ddraw$SetAppCompatData"
     remap "__imp_ReleaseDDThreadLock" "__imp_ddraw$ReleaseDDThreadLock"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SwEnumCoInstaller" "__imp_streamci$SwEnumCoInstaller"
     remap "__imp_StreamingDeviceSetupW" "__imp_streamci$StreamingDeviceSetupW"

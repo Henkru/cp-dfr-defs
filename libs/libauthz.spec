@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_RefreshClaimDictionary" "__imp_authz$RefreshClaimDictionary"
     remap "__imp_InitializeClaimDictionary" "__imp_authz$InitializeClaimDictionary"

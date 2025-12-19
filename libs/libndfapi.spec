@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_NdfRunDllHelpTopic" "__imp_ndfapi$NdfRunDllHelpTopic"
     remap "__imp_NdfRunDllDuplicateIPOffendingSystem" "__imp_ndfapi$NdfRunDllDuplicateIPOffendingSystem"

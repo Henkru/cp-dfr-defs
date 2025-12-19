@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_vc7fpo" "__imp_dbghelp$vc7fpo"
     remap "__imp_symsrv" "__imp_dbghelp$symsrv"

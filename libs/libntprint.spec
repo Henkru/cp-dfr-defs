@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SetupInetPrint" "__imp_ntprint$SetupInetPrint"
     remap "__imp_ServerInstallW" "__imp_ntprint$ServerInstallW"

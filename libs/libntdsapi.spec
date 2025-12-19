@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_DsaopUnBind" "__imp_ntdsapi$DsaopUnBind"
     remap "__imp_DsaopPrepareScript" "__imp_ntdsapi$DsaopPrepareScript"

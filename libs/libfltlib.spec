@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_FilterVolumeInstanceFindNext" "__imp_fltlib$FilterVolumeInstanceFindNext"
     remap "__imp_FilterVolumeInstanceFindFirst" "__imp_fltlib$FilterVolumeInstanceFindFirst"

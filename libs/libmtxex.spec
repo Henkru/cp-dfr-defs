@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SafeRef" "__imp_mtxex$SafeRef"
     remap "__imp_MTSCreateActivity" "__imp_mtxex$MTSCreateActivity"

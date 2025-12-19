@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ServiceMain" "__imp_qmgr$ServiceMain"
     remap "__imp_DllUnregisterServer" "__imp_qmgr$DllUnregisterServer"

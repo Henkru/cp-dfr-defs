@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ax_unreg" "__imp_msdtcprx$ax_unreg"
     remap "__imp_ax_reg" "__imp_msdtcprx$ax_reg"

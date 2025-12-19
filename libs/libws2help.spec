@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WahWriteLSPEvent" "__imp_ws2help$WahWriteLSPEvent"
     remap "__imp_WahWaitForNotification" "__imp_ws2help$WahWaitForNotification"

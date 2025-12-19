@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UpdateDebugInfoFileEx" "__imp_imagehlp$UpdateDebugInfoFileEx"
     remap "__imp_UpdateDebugInfoFile" "__imp_imagehlp$UpdateDebugInfoFile"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_I_InvokeCommand" "__imp_cryptext$I_InvokeCommand"
     remap "__imp_CryptExtOpenSTRW" "__imp_cryptext$CryptExtOpenSTRW"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SamiSetDSRMPasswordOWF" "__imp_samlib$SamiSetDSRMPasswordOWF"
     remap "__imp_SamiSetDSRMPassword" "__imp_samlib$SamiSetDSRMPassword"

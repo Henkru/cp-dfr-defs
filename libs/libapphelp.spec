@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ShimFlushCache" "__imp_apphelp$ShimFlushCache"
     remap "__imp_ShimDumpCache" "__imp_apphelp$ShimDumpCache"

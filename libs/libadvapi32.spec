@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ord_1000" "__imp_advapi32$ord_1000"
     remap "__imp_WriteEncryptedFileRaw" "__imp_advapi32$WriteEncryptedFileRaw"

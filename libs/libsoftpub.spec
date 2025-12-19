@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SoftpubLoadSignature" "__imp_softpub$SoftpubLoadSignature"
     remap "__imp_SoftpubLoadMessage" "__imp_softpub$SoftpubLoadMessage"

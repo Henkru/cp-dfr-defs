@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SinglePhaseReject" "__imp_ktmw32$SinglePhaseReject"
     remap "__imp_SetTransactionInformation" "__imp_ktmw32$SetTransactionInformation"

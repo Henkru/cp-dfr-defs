@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_g_rgSCardT1Pci" "__imp_winscard$g_rgSCardT1Pci"
     remap "__imp_g_rgSCardT0Pci" "__imp_winscard$g_rgSCardT0Pci"

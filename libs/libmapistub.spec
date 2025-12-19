@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ord_8" "__imp_mapistub$ord_8"
     remap "__imp_cmc_send_documents" "__imp_mapistub$cmc_send_documents"

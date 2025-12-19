@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_GetProxyDllInfo" "__imp_quartz$GetProxyDllInfo"
     remap "__imp_DllUnregisterServer" "__imp_quartz$DllUnregisterServer"

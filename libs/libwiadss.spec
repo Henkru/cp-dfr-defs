@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UnloadImportDS" "__imp_wiadss$UnloadImportDS"
     remap "__imp_LoadImportDS" "__imp_wiadss$LoadImportDS"

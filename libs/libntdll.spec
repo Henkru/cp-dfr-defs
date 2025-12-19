@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_@RtlUshortByteSwap@4" "__imp_ntdll$@RtlUshortByteSwap@4"
     remap "__imp_@RtlUlonglongByteSwap@8" "__imp_ntdll$@RtlUlonglongByteSwap@8"

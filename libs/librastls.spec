@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_RasEapUpdateServerConfig" "__imp_rastls$RasEapUpdateServerConfig"
     remap "__imp_RasEapInvokeInteractiveUI" "__imp_rastls$RasEapInvokeInteractiveUI"

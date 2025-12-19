@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_GetSignatureInterface" "__imp_bcrypt$GetSignatureInterface"
     remap "__imp_GetSecretAgreementInterface" "__imp_bcrypt$GetSecretAgreementInterface"

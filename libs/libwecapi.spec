@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_vDbgLogError" "__imp_wecapi$vDbgLogError"
     remap "__imp_pszDbgAllocMsgA" "__imp_wecapi$pszDbgAllocMsgA"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_VectorFromBstr" "__imp_oleaut32$VectorFromBstr"
     remap "__imp_VariantTimeToSystemTime" "__imp_oleaut32$VariantTimeToSystemTime"

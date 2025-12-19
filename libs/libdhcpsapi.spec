@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_DhcpV6SetStatelessStoreParams" "__imp_dhcpsapi$DhcpV6SetStatelessStoreParams"
     remap "__imp_DhcpV6GetStatelessStoreParams" "__imp_dhcpsapi$DhcpV6GetStatelessStoreParams"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_LdapProvOpenStore" "__imp_cryptnet$LdapProvOpenStore"
     remap "__imp_I_CryptNetSetUrlCachePreFetchInfo" "__imp_cryptnet$I_CryptNetSetUrlCachePreFetchInfo"

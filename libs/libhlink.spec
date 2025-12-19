@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_OleSaveToStreamEx" "__imp_hlink$OleSaveToStreamEx"
     remap "__imp_HlinkUpdateStackItem" "__imp_hlink$HlinkUpdateStackItem"

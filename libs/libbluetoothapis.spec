@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ShouldForceAuthentication" "__imp_bluetoothapis$ShouldForceAuthentication"
     remap "__imp_InstallIncomingComPort" "__imp_bluetoothapis$InstallIncomingComPort"

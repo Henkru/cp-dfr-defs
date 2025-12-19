@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WriteCabinetState" "__imp_shell32$WriteCabinetState"
     remap "__imp_Win32DeleteFile" "__imp_shell32$Win32DeleteFile"

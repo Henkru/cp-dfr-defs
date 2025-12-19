@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_DebugCreateEx" "__imp_dbgeng$DebugCreateEx"
     remap "__imp_DebugCreate" "__imp_dbgeng$DebugCreate"

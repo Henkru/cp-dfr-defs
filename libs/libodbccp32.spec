@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SelectTransDlg" "__imp_odbccp32$SelectTransDlg"
     remap "__imp_SQLWritePrivateProfileStringW" "__imp_odbccp32$SQLWritePrivateProfileStringW"

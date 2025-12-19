@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_VerifySignature" "__imp_security$VerifySignature"
     remap "__imp_UnsealMessage" "__imp_security$UnsealMessage"

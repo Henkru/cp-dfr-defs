@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_dwOKSubclass" "__imp_comdlg32$dwOKSubclass"
     remap "__imp_dwLBSubclass" "__imp_comdlg32$dwLBSubclass"

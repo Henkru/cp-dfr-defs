@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_?SetFSlashDisabler@CLexer@@QAEXH@Z" "__imp_adsldpc$?SetFSlashDisabler@CLexer@@QAEXH@Z"
     remap "__imp_?SetExclaimnationDisabler@CLexer@@QAEXH@Z" "__imp_adsldpc$?SetExclaimnationDisabler@CLexer@@QAEXH@Z"

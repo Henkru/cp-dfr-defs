@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_MergePropertyStore" "__imp_mfcore$MergePropertyStore"
     remap "__imp_MFShutdownObject" "__imp_mfcore$MFShutdownObject"

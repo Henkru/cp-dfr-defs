@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WSDXMLGetValueFromAny" "__imp_wsdapi$WSDXMLGetValueFromAny"
     remap "__imp_WSDXMLGetNameFromBuiltinNamespace" "__imp_wsdapi$WSDXMLGetNameFromBuiltinNamespace"

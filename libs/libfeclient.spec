@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_GetLockSessionWrappedKey" "__imp_feclient$GetLockSessionWrappedKey"
     remap "__imp_GetLockSessionUnwrappedKey" "__imp_feclient$GetLockSessionUnwrappedKey"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ese" "__imp_esent$ese"
     remap "__imp_JetUpgradeDatabaseW" "__imp_esent$JetUpgradeDatabaseW"

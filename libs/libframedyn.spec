@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_DoCmd" "__imp_framedyn$DoCmd"
     remap "__imp_?s_wstrCSDVersion@CWbemProviderGlue@@0PAGA" "__imp_framedyn$?s_wstrCSDVersion@CWbemProviderGlue@@0PAGA"

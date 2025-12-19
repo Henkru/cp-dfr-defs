@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ASN1ztcharstring_free" "__imp_msasn1$ASN1ztcharstring_free"
     remap "__imp_ASN1ztcharstring_cmp" "__imp_msasn1$ASN1ztcharstring_cmp"

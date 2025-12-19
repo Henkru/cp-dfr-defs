@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_XInputSetState" "__imp_xinput9_1_0$XInputSetState"
     remap "__imp_XInputGetState" "__imp_xinput9_1_0$XInputGetState"

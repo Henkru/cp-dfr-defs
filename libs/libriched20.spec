@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_RichEditANSIWndProc" "__imp_riched20$RichEditANSIWndProc"
     remap "__imp_RichEdit10ANSIWndProc" "__imp_riched20$RichEdit10ANSIWndProc"

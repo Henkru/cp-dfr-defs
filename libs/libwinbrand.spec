@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_InstallEULA" "__imp_winbrand$InstallEULA"
     remap "__imp_GetInstalledEULAPath" "__imp_winbrand$GetInstalledEULAPath"

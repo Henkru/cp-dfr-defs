@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_XAudio2Create" "__imp_xaudio2_8$XAudio2Create"
     remap "__imp_X3DAudioInitialize" "__imp_xaudio2_8$X3DAudioInitialize"

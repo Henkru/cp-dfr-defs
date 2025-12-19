@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WSHStringToAddress" "__imp_wshbth$WSHStringToAddress"
     remap "__imp_WSHSetSocketInformation" "__imp_wshbth$WSHSetSocketInformation"

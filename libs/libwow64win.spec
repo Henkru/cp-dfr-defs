@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_sdwhwin32" "__imp_wow64win$sdwhwin32"
     remap "__imp_sdwhcon" "__imp_wow64win$sdwhcon"

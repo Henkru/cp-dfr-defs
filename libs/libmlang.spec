@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_Rfc1766ToLcidW" "__imp_mlang$Rfc1766ToLcidW"
     remap "__imp_Rfc1766ToLcidA" "__imp_mlang$Rfc1766ToLcidA"

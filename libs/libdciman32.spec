@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WinWatchOpen" "__imp_dciman32$WinWatchOpen"
     remap "__imp_WinWatchNotify" "__imp_dciman32$WinWatchNotify"

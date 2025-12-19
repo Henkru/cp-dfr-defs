@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_CryptXmlVerifySignature" "__imp_cryptxml$CryptXmlVerifySignature"
     remap "__imp_CryptXmlSign" "__imp_cryptxml$CryptXmlSign"

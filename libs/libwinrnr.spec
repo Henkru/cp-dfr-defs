@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_RemoveNTDSProvider" "__imp_winrnr$RemoveNTDSProvider"
     remap "__imp_NSPStartup" "__imp_winrnr$NSPStartup"

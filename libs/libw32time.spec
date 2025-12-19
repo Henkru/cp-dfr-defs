@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_fnW32TmSetServiceStatus" "__imp_w32time$fnW32TmSetServiceStatus"
     remap "__imp_fnW32TmRegisterServiceCtrlHandlerEx" "__imp_w32time$fnW32TmRegisterServiceCtrlHandlerEx"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_NdxTableSetTypeDefinition" "__imp_devrtl$NdxTableSetTypeDefinition"
     remap "__imp_NdxTableSetPropertyValue" "__imp_devrtl$NdxTableSetPropertyValue"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_GetdfDIJoystick" "__imp_dinput8$GetdfDIJoystick"
     remap "__imp_DllUnregisterServer" "__imp_dinput8$DllUnregisterServer"

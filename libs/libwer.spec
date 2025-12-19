@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WerpSvcReportFromMachineQueue" "__imp_wer$WerpSvcReportFromMachineQueue"
     remap "__imp_WerpSubmitReportFromStore" "__imp_wer$WerpSubmitReportFromStore"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_EfsUIUtilShowBalloonAndWait" "__imp_efsadu$EfsUIUtilShowBalloonAndWait"
     remap "__imp_EfsUIUtilSelectCard" "__imp_efsadu$EfsUIUtilSelectCard"

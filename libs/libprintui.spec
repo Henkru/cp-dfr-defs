@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_vServerPropPages" "__imp_printui$vServerPropPages"
     remap "__imp_vQueueCreate" "__imp_printui$vQueueCreate"

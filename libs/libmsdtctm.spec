@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SetTipFunctionalityWorking" "__imp_msdtctm$SetTipFunctionalityWorking"
     remap "__imp_GetTipFunctionalityWorking" "__imp_msdtctm$GetTipFunctionalityWorking"

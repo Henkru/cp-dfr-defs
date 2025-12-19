@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_RpcNsProfileEltRemoveW" "__imp_rpcns4$RpcNsProfileEltRemoveW"
     remap "__imp_RpcNsProfileEltRemoveA" "__imp_rpcns4$RpcNsProfileEltRemoveA"

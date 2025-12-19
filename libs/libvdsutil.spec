@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UnregisterVdsFabric" "__imp_vdsutil$UnregisterVdsFabric"
     remap "__imp_RegisterVdsFabric" "__imp_vdsutil$RegisterVdsFabric"

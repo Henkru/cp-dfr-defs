@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_QueryInstanceCount" "__imp_msi$QueryInstanceCount"
     remap "__imp_MsiViewModify" "__imp_msi$MsiViewModify"

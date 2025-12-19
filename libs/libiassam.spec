@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_IASParmsSetUserProperty" "__imp_iassam$IASParmsSetUserProperty"
     remap "__imp_IASParmsSetRasUser0" "__imp_iassam$IASParmsSetRasUser0"

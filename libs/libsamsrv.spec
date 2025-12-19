@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SamrUnicodeChangePasswordUser2" "__imp_samsrv$SamrUnicodeChangePasswordUser2"
     remap "__imp_SamrTestPrivateFunctionsUser" "__imp_samsrv$SamrTestPrivateFunctionsUser"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ShutdownIas" "__imp_iashlpr$ShutdownIas"
     remap "__imp_SetOptionIas" "__imp_iashlpr$SetOptionIas"

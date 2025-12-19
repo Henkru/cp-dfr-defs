@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SpUserModeInitialize" "__imp_kerberos$SpUserModeInitialize"
     remap "__imp_SpLsaModeInitialize" "__imp_kerberos$SpLsaModeInitialize"

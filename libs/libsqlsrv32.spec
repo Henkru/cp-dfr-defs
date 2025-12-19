@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WizLanguageDlgProc" "__imp_sqlsrv32$WizLanguageDlgProc"
     remap "__imp_WizIntSecurityDlgProc" "__imp_sqlsrv32$WizIntSecurityDlgProc"

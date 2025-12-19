@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SfpVerifyFile" "__imp_sfc$SfpVerifyFile"
     remap "__imp_SfcWLEventLogon" "__imp_sfc$SfcWLEventLogon"

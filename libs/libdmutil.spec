@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_TranslateError" "__imp_dmutil$TranslateError"
     remap "__imp_SzwFromSza" "__imp_dmutil$SzwFromSza"

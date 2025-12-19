@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SCardUIDlgSelectCardW" "__imp_scarddlg$SCardUIDlgSelectCardW"
     remap "__imp_SCardUIDlgSelectCardA" "__imp_scarddlg$SCardUIDlgSelectCardA"

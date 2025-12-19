@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_VerifierStopMessage" "__imp_verifier$VerifierStopMessage"
     remap "__imp_VerifierSetRuntimeFlags" "__imp_verifier$VerifierSetRuntimeFlags"

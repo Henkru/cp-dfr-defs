@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SetEntryDialParams" "__imp_rasmans$SetEntryDialParams"
     remap "__imp_ServiceRequestInProcess" "__imp_rasmans$ServiceRequestInProcess"

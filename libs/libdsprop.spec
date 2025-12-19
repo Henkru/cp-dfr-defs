@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_Smart_PADS_ATTR_INFO__Empty" "__imp_dsprop$Smart_PADS_ATTR_INFO__Empty"
     remap "__imp_ReportError" "__imp_dsprop$ReportError"

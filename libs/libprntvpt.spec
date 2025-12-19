@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UnbindPTProviderThunk" "__imp_prntvpt$UnbindPTProviderThunk"
     remap "__imp_PTReleaseMemory" "__imp_prntvpt$PTReleaseMemory"

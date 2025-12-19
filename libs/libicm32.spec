@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_CMTranslateRGBsExt" "__imp_icm32$CMTranslateRGBsExt"
     remap "__imp_CMTranslateRGBs" "__imp_icm32$CMTranslateRGBs"

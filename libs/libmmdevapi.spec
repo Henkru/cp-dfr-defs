@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_mmdDevGetRelatedInterfaceId" "__imp_mmdevapi$mmdDevGetRelatedInterfaceId"
     remap "__imp_mmdDevGetMMDeviceIdFromInterfaceId" "__imp_mmdevapi$mmdDevGetMMDeviceIdFromInterfaceId"

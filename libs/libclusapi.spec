@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SetClusterServiceAccountPassword" "__imp_clusapi$SetClusterServiceAccountPassword"
     remap "__imp_SetClusterResourceName" "__imp_clusapi$SetClusterResourceName"

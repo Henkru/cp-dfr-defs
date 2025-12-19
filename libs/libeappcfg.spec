@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_EapHostPeerQueryUserBlobFromCredentialInputFields" "__imp_eappcfg$EapHostPeerQueryUserBlobFromCredentialInputFields"
     remap "__imp_EapHostPeerQueryUIBlobFromInteractiveUIInputFields" "__imp_eappcfg$EapHostPeerQueryUIBlobFromInteractiveUIInputFields"

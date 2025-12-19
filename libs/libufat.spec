@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_Recover" "__imp_ufat$Recover"
     remap "__imp_FormatEx" "__imp_ufat$FormatEx"

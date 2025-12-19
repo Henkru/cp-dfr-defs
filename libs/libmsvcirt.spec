@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_?xsputn@streambuf@@UEAAHPEBDH@Z" "__imp_msvcirt$?xsputn@streambuf@@UEAAHPEBDH@Z"
     remap "__imp_?xsgetn@streambuf@@UEAAHPEADH@Z" "__imp_msvcirt$?xsgetn@streambuf@@UEAAHPEADH@Z"

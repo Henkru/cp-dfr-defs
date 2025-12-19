@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_VolumePropPageProvider" "__imp_storprop$VolumePropPageProvider"
     remap "__imp_IdePropPageProvider" "__imp_storprop$IdePropPageProvider"

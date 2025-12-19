@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_IID_ISecurityInformation" "__imp_aclui$IID_ISecurityInformation"
     remap "__imp_EditSecurity" "__imp_aclui$EditSecurity"

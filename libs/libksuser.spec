@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_KsCreateTopologyNode2" "__imp_ksuser$KsCreateTopologyNode2"
     remap "__imp_KsCreateTopologyNode" "__imp_ksuser$KsCreateTopologyNode"

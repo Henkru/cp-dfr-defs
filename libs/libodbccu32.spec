@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SQLTransact" "__imp_odbccu32$SQLTransact"
     remap "__imp_SQLSetStmtOption" "__imp_odbccu32$SQLSetStmtOption"

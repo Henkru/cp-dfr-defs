@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_OpenAdapter10_2" "__imp_d3d11$OpenAdapter10_2"
     remap "__imp_OpenAdapter10" "__imp_d3d11$OpenAdapter10"

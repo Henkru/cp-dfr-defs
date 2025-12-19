@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WlanUIEditProfile" "__imp_wlanui$WlanUIEditProfile"
     remap "__imp_WLInvokeProfileUIFromXMLFile" "__imp_wlanui$WLInvokeProfileUIFromXMLFile"

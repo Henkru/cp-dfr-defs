@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ThemeServiceMain" "__imp_shsvcs$ThemeServiceMain"
     remap "__imp_HardwareDetectionServiceMain" "__imp_shsvcs$HardwareDetectionServiceMain"

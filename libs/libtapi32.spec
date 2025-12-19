@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_tapiRequestMediaCallW" "__imp_tapi32$tapiRequestMediaCallW"
     remap "__imp_tapiRequestMediaCallA" "__imp_tapi32$tapiRequestMediaCallA"

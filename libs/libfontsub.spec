@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_MergeFontPackage" "__imp_fontsub$MergeFontPackage"
     remap "__imp_CreateFontPackage" "__imp_fontsub$CreateFontPackage"

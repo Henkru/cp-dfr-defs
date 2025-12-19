@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_Tbsip_TestMorBit" "__imp_tbs$Tbsip_TestMorBit"
     remap "__imp_Tbsip_TestInterruptInformation" "__imp_tbs$Tbsip_TestInterruptInformation"

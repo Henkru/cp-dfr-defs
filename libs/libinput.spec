@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ord_116" "__imp_input$ord_116"
     remap "__imp_ord_115" "__imp_input$ord_115"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_TdhpGetEventMapInfoWBEM" "__imp_tdh$TdhpGetEventMapInfoWBEM"
     remap "__imp_TdhpGetBestTraceEventInfoWBEM" "__imp_tdh$TdhpGetBestTraceEventInfoWBEM"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_QueryWorkingSetEx" "__imp_psapi$QueryWorkingSetEx"
     remap "__imp_QueryWorkingSet" "__imp_psapi$QueryWorkingSet"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SwMemFree" "__imp_cfgmgr32$SwMemFree"
     remap "__imp_SwDeviceSetLifetime" "__imp_cfgmgr32$SwDeviceSetLifetime"

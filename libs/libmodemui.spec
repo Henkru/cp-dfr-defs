@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_drvSetDefaultCommConfigW" "__imp_modemui$drvSetDefaultCommConfigW"
     remap "__imp_drvSetDefaultCommConfigA" "__imp_modemui$drvSetDefaultCommConfigA"

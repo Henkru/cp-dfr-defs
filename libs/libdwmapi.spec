@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_DwmpRenderFlick" "__imp_dwmapi$DwmpRenderFlick"
     remap "__imp_DwmpFreeSecurityDescriptor" "__imp_dwmapi$DwmpFreeSecurityDescriptor"

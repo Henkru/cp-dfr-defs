@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ImportRSoPData" "__imp_gpedit$ImportRSoPData"
     remap "__imp_ExportRSoPData" "__imp_gpedit$ExportRSoPData"

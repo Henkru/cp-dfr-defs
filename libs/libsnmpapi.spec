@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SnmpUtilVarBindListFree" "__imp_snmpapi$SnmpUtilVarBindListFree"
     remap "__imp_SnmpUtilVarBindListCpy" "__imp_snmpapi$SnmpUtilVarBindListCpy"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ProcessGroupPolicyForZoneMap" "__imp_iedkcs32$ProcessGroupPolicyForZoneMap"
     remap "__imp_ProcessGroupPolicyEx" "__imp_iedkcs32$ProcessGroupPolicyEx"

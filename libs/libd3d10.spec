@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_D3D10StateBlockMaskUnion" "__imp_d3d10$D3D10StateBlockMaskUnion"
     remap "__imp_D3D10StateBlockMaskIntersect" "__imp_d3d10$D3D10StateBlockMaskIntersect"

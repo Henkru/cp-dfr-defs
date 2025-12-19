@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WebSocketSend" "__imp_websocket$WebSocketSend"
     remap "__imp_WebSocketReceive" "__imp_websocket$WebSocketReceive"

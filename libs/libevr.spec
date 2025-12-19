@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_MFIsFormatYUV" "__imp_evr$MFIsFormatYUV"
     remap "__imp_MFInitVideoFormat_RGB" "__imp_evr$MFInitVideoFormat_RGB"

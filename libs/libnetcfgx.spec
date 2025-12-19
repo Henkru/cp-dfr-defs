@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UpdateLanaConfigUsingAnswerfile" "__imp_netcfgx$UpdateLanaConfigUsingAnswerfile"
     remap "__imp_SvchostChangeSvchostGroup" "__imp_netcfgx$SvchostChangeSvchostGroup"

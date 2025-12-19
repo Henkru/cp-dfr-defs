@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_MFWriteSensorGroupDataToRegistry" "__imp_mfsensorgroup$MFWriteSensorGroupDataToRegistry"
     remap "__imp_MFValidateSensorProfile" "__imp_mfsensorgroup$MFValidateSensorProfile"

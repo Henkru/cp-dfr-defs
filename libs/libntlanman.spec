@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_StopShareDialogA0" "__imp_ntlanman$StopShareDialogA0"
     remap "__imp_ShareStop" "__imp_ntlanman$ShareStop"

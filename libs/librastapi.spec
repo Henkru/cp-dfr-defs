@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UpdateTapiService" "__imp_rastapi$UpdateTapiService"
     remap "__imp_UnloadRastapiDll" "__imp_rastapi$UnloadRastapiDll"

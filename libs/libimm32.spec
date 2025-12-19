@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ImmWINNLSGetIMEHotkey" "__imp_imm32$ImmWINNLSGetIMEHotkey"
     remap "__imp_ImmWINNLSGetEnableStatus" "__imp_imm32$ImmWINNLSGetEnableStatus"

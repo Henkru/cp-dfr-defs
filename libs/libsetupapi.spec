@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_pSetupWriteLogError" "__imp_setupapi$pSetupWriteLogError"
     remap "__imp_pSetupWriteLogEntry" "__imp_setupapi$pSetupWriteLogEntry"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_OleUIUpdateLinksW" "__imp_oledlg$OleUIUpdateLinksW"
     remap "__imp_OleUIUpdateLinksA" "__imp_oledlg$OleUIUpdateLinksA"

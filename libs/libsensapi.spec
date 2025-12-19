@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_IsNetworkAlive" "__imp_sensapi$IsNetworkAlive"
     remap "__imp_IsDestinationReachableW" "__imp_sensapi$IsDestinationReachableW"

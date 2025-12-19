@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_RemoveUninstallImage" "__imp_osuninst$RemoveUninstallImage"
     remap "__imp_ProvideUiAlerts" "__imp_osuninst$ProvideUiAlerts"

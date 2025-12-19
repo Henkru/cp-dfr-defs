@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ProcessGroupPolicy" "__imp_cscui$ProcessGroupPolicy"
     remap "__imp_DllUnregisterServer" "__imp_cscui$DllUnregisterServer"

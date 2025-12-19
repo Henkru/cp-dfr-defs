@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_VidSolidColorFill" "__imp_bootvid$VidSolidColorFill"
     remap "__imp_VidSetTextColor" "__imp_bootvid$VidSetTextColor"

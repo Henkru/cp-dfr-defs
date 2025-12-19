@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_wscUpdateProductSubStatus" "__imp_wscapi$wscUpdateProductSubStatus"
     remap "__imp_wscUpdateProductStatus" "__imp_wscapi$wscUpdateProductStatus"

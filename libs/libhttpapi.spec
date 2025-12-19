@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_HttpWaitForDisconnectEx" "__imp_httpapi$HttpWaitForDisconnectEx"
     remap "__imp_HttpWaitForDisconnect" "__imp_httpapi$HttpWaitForDisconnect"

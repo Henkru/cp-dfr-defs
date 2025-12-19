@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_HidP_UsageListDifference" "__imp_hid$HidP_UsageListDifference"
     remap "__imp_HidP_UnsetUsages" "__imp_hid$HidP_UnsetUsages"

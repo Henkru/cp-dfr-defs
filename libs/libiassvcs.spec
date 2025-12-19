@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_IASVariantChangeType" "__imp_iassvcs$IASVariantChangeType"
     remap "__imp_IASUninitialize" "__imp_iassvcs$IASUninitialize"

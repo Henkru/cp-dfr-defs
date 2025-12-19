@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ResolveLinkInfoW" "__imp_linkinfo$ResolveLinkInfoW"
     remap "__imp_ResolveLinkInfoA" "__imp_linkinfo$ResolveLinkInfoA"

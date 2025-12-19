@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WSManProvUnsubscribe" "__imp_wevtfwd$WSManProvUnsubscribe"
     remap "__imp_WSManProvSubscribe" "__imp_wevtfwd$WSManProvSubscribe"

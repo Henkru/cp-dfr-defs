@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SLpVLActivateProduct" "__imp_slc$SLpVLActivateProduct"
     remap "__imp_SLpGetTokenActivationGrantInfo" "__imp_slc$SLpGetTokenActivationGrantInfo"

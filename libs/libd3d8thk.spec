@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_OsThunkDdWaitForVerticalBlank" "__imp_d3d8thk$OsThunkDdWaitForVerticalBlank"
     remap "__imp_OsThunkDdUpdateOverlay" "__imp_d3d8thk$OsThunkDdUpdateOverlay"

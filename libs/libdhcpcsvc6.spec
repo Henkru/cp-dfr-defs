@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_Dhcpv6SetUserClass" "__imp_dhcpcsvc6$Dhcpv6SetUserClass"
     remap "__imp_Dhcpv6RequestPrefixEx" "__imp_dhcpcsvc6$Dhcpv6RequestPrefixEx"

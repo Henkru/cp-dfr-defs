@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ord_708" "__imp_inetcomm$ord_708"
     remap "__imp_ord_707" "__imp_inetcomm$ord_707"

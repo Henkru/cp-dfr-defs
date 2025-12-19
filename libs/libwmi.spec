@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WmiSetSingleItemW" "__imp_wmi$WmiSetSingleItemW"
     remap "__imp_WmiSetSingleItemA" "__imp_wmi$WmiSetSingleItemA"

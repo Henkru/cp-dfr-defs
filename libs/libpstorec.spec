@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_PStoreEnumProviders" "__imp_pstorec$PStoreEnumProviders"
     remap "__imp_PStoreCreateInstance" "__imp_pstorec$PStoreCreateInstance"

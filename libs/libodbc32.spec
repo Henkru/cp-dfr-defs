@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_g_hHeapMalloc" "__imp_odbc32$g_hHeapMalloc"
     remap "__imp_ValidateErrorQueue" "__imp_odbc32$ValidateErrorQueue"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ServiceMain" "__imp_es$ServiceMain"
     remap "__imp_RegisterTheEventServiceDuringSetup" "__imp_es$RegisterTheEventServiceDuringSetup"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_VerQueryValueW" "__imp_version$VerQueryValueW"
     remap "__imp_VerQueryValueIndexW" "__imp_version$VerQueryValueIndexW"

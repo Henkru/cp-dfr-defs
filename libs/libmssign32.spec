@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SpcGetCertFromKey" "__imp_mssign32$SpcGetCertFromKey"
     remap "__imp_SignerTimeStampEx3" "__imp_mssign32$SignerTimeStampEx3"

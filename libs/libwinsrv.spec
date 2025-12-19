@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UserServerDllInitialization" "__imp_winsrv$UserServerDllInitialization"
     remap "__imp_ConServerDllInitialization" "__imp_winsrv$ConServerDllInitialization"

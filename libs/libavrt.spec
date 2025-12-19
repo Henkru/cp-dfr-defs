@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_AvSetMmThreadPriority" "__imp_avrt$AvSetMmThreadPriority"
     remap "__imp_AvSetMmThreadCharacteristicsW" "__imp_avrt$AvSetMmThreadCharacteristicsW"

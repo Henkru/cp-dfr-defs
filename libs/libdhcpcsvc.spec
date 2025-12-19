@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_McastRequestAddress" "__imp_dhcpcsvc$McastRequestAddress"
     remap "__imp_McastRenewAddress" "__imp_dhcpcsvc$McastRenewAddress"

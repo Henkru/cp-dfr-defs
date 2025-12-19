@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SetupPersistentIScsiVolumes" "__imp_iscsidsc$SetupPersistentIScsiVolumes"
     remap "__imp_SetupPersistentIScsiDevices" "__imp_iscsidsc$SetupPersistentIScsiDevices"

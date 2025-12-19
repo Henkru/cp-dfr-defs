@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_TakeSnapshotVhdSet" "__imp_virtdisk$TakeSnapshotVhdSet"
     remap "__imp_SetVirtualDiskMetadata" "__imp_virtdisk$SetVirtualDiskMetadata"

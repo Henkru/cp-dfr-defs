@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ReplicationScheduleDialogEx" "__imp_loghours$ReplicationScheduleDialogEx"
     remap "__imp_ReplicationScheduleDialog" "__imp_loghours$ReplicationScheduleDialog"

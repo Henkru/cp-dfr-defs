@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_wiasWritePropStr" "__imp_wiaservc$wiasWritePropStr"
     remap "__imp_wiasWritePropLong" "__imp_wiaservc$wiasWritePropLong"

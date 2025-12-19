@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WSNoteSuccessfulHostentLookup" "__imp_rasadhlp$WSNoteSuccessfulHostentLookup"
     remap "__imp_WSAttemptAutodialName" "__imp_rasadhlp$WSAttemptAutodialName"

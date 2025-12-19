@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_XAudio2CreateWithVersionInfo" "__imp_xaudio2_9$XAudio2CreateWithVersionInfo"
     remap "__imp_XAudio2CreateWithSharedContexts" "__imp_xaudio2_9$XAudio2CreateWithSharedContexts"

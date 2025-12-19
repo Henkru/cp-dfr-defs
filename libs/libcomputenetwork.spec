@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_HcnUnregisterServiceCallback" "__imp_computenetwork$HcnUnregisterServiceCallback"
     remap "__imp_HcnUnregisterNetworkCallback" "__imp_computenetwork$HcnUnregisterNetworkCallback"

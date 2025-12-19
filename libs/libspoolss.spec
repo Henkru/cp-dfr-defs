@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_bSetDevModePerUser" "__imp_spoolss$bSetDevModePerUser"
     remap "__imp_bGetDevModePerUser" "__imp_spoolss$bGetDevModePerUser"

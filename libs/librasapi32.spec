@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UnInitializeRAS" "__imp_rasapi32$UnInitializeRAS"
     remap "__imp_SharedAccessResponseStringToList" "__imp_rasapi32$SharedAccessResponseStringToList"

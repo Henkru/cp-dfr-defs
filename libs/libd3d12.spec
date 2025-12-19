@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SetAppCompatStringPointer" "__imp_d3d12$SetAppCompatStringPointer"
     remap "__imp_GetBehaviorValue" "__imp_d3d12$GetBehaviorValue"

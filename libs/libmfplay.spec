@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_MFPCreateMediaPlayerEx" "__imp_mfplay$MFPCreateMediaPlayerEx"
     remap "__imp_MFPCreateMediaPlayer" "__imp_mfplay$MFPCreateMediaPlayer"

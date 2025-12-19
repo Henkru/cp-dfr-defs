@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_gluUnProject" "__imp_glu32$gluUnProject"
     remap "__imp_gluTessVertex" "__imp_glu32$gluTessVertex"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WriteStringStream" "__imp_ole32$WriteStringStream"
     remap "__imp_WriteStorageProperties" "__imp_ole32$WriteStorageProperties"

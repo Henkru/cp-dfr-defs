@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_TxfSetThreadMiniVersionForCreate" "__imp_txfw32$TxfSetThreadMiniVersionForCreate"
     remap "__imp_TxfReadMetadataInfo" "__imp_txfw32$TxfReadMetadataInfo"

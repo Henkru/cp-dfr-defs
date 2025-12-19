@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UpdateBatMeter" "__imp_batmeter$UpdateBatMeter"
     remap "__imp_PowerCapabilities" "__imp_batmeter$PowerCapabilities"

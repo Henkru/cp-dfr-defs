@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WinUsb_WritePipe" "__imp_winusb$WinUsb_WritePipe"
     remap "__imp_WinUsb_WriteIsochPipeAsap" "__imp_winusb$WinUsb_WriteIsochPipeAsap"

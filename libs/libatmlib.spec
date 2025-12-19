@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ATMXYShowTextW" "__imp_atmlib$ATMXYShowTextW"
     remap "__imp_ATMXYShowTextA" "__imp_atmlib$ATMXYShowTextA"

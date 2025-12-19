@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_HTUI_DeviceColorAdjustmentW" "__imp_htui$HTUI_DeviceColorAdjustmentW"
     remap "__imp_HTUI_DeviceColorAdjustmentA" "__imp_htui$HTUI_DeviceColorAdjustmentA"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SetFirstHomepage" "__imp_iesetup$SetFirstHomepage"
     remap "__imp_IEHardenUser" "__imp_iesetup$IEHardenUser"

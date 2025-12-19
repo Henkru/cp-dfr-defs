@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_uaw_wcsrchr" "__imp_kernel32$uaw_wcsrchr"
     remap "__imp_uaw_wcslen" "__imp_kernel32$uaw_wcslen"

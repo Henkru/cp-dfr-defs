@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SfcWLEventLogon" "__imp_sfc_os$SfcWLEventLogon"
     remap "__imp_SfcWLEventLogoff" "__imp_sfc_os$SfcWLEventLogoff"

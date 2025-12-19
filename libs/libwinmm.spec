@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_wod32Message" "__imp_winmm$wod32Message"
     remap "__imp_winmmSetDebugLevel" "__imp_winmm$winmmSetDebugLevel"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_?s_policyManager@CWSManGroupPolicyManager@@0V?$AutoRelease@VCWSManGroupPolicyManager@@@@A" "__imp_wsmsvc$?s_policyManager@CWSManGroupPolicyManager@@0V?$AutoRelease@VCWSManGroupPolicyManager@@@@A"
     remap "__imp_?s_mapLock@CWinRSPluginConfigCache@@0VFastLock@@A" "__imp_wsmsvc$?s_mapLock@CWinRSPluginConfigCache@@0VFastLock@@A"

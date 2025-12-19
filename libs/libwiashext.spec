@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_MakeFullPidlForDevice" "__imp_wiashext$MakeFullPidlForDevice"
     remap "__imp_DoDeleteAllItems" "__imp_wiashext$DoDeleteAllItems"

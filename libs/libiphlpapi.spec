@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_register_icmp" "__imp_iphlpapi$register_icmp"
     remap "__imp_if_nametoindex" "__imp_iphlpapi$if_nametoindex"

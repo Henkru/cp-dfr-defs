@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_MsiSIPVerifyIndirectData" "__imp_msisip$MsiSIPVerifyIndirectData"
     remap "__imp_MsiSIPRemoveSignedDataMsg" "__imp_msisip$MsiSIPRemoveSignedDataMsg"

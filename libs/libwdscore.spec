@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_?SetSize@?$CDynamicArray@_KPA_K@@QAEHK@Z" "__imp_wdscore$?SetSize@?$CDynamicArray@_KPA_K@@QAEHK@Z"
     remap "__imp_?SetSize@?$CDynamicArray@USKeeperEntry@CBlackboardFactory@@PAU12@@@QAEHK@Z" "__imp_wdscore$?SetSize@?$CDynamicArray@USKeeperEntry@CBlackboardFactory@@PAU12@@@QAEHK@Z"

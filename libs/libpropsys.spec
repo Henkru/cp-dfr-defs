@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WinRTPropertyValueToPropVariant" "__imp_propsys$WinRTPropertyValueToPropVariant"
     remap "__imp_VariantToUInt64WithDefault" "__imp_propsys$VariantToUInt64WithDefault"

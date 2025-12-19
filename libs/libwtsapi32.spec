@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WTSWaitSystemEvent" "__imp_wtsapi32$WTSWaitSystemEvent"
     remap "__imp_WTSVirtualChannelWrite" "__imp_wtsapi32$WTSVirtualChannelWrite"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UspFreeMem" "__imp_usp10$UspFreeMem"
     remap "__imp_UspAllocTemp" "__imp_usp10$UspAllocTemp"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WebAuthNIsUserVerifyingPlatformAuthenticatorAvailable" "__imp_webauthn$WebAuthNIsUserVerifyingPlatformAuthenticatorAvailable"
     remap "__imp_WebAuthNGetW3CExceptionDOMError" "__imp_webauthn$WebAuthNGetW3CExceptionDOMError"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SniffStream" "__imp_imgutil$SniffStream"
     remap "__imp_IdentifyMIMEType" "__imp_imgutil$IdentifyMIMEType"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WICSetEncoderFormat_Proxy" "__imp_windowscodecs$WICSetEncoderFormat_Proxy"
     remap "__imp_WICSerializeMetadataContent" "__imp_windowscodecs$WICSerializeMetadataContent"

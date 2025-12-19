@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ValidateWaveFormat" "__imp_mfplat$ValidateWaveFormat"
     remap "__imp_PropVariantToStream" "__imp_mfplat$PropVariantToStream"

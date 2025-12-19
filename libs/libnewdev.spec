@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WindowsUpdateDriverSearchingPolicyUi" "__imp_newdev$WindowsUpdateDriverSearchingPolicyUi"
     remap "__imp_UpdateDriverForPlugAndPlayDevicesW" "__imp_newdev$UpdateDriverForPlugAndPlayDevicesW"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_EvtUpdateBookmark" "__imp_wevtapi$EvtUpdateBookmark"
     remap "__imp_EvtSubscribe" "__imp_wevtapi$EvtSubscribe"

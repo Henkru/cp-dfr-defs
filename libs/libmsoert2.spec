@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_strtrimW" "__imp_msoert2$strtrimW"
     remap "__imp_strtrim" "__imp_msoert2$strtrim"

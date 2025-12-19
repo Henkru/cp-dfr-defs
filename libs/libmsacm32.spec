@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_acmStreamUnprepareHeader" "__imp_msacm32$acmStreamUnprepareHeader"
     remap "__imp_acmStreamSize" "__imp_msacm32$acmStreamSize"

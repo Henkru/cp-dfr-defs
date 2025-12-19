@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SweepControlsByLastAccessDate" "__imp_occache$SweepControlsByLastAccessDate"
     remap "__imp_RemoveExpiredControls" "__imp_occache$RemoveExpiredControls"

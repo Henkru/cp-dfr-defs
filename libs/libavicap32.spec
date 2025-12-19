@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_videoThunk32" "__imp_avicap32$videoThunk32"
     remap "__imp_capGetDriverDescriptionW" "__imp_avicap32$capGetDriverDescriptionW"

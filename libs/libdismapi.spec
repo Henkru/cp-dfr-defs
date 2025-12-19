@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_DismUnmountImage" "__imp_dismapi$DismUnmountImage"
     remap "__imp_DismShutdown" "__imp_dismapi$DismShutdown"

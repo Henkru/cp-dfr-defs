@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_TurboDispatchJumpAddressStart" "__imp_wow64cpu$TurboDispatchJumpAddressStart"
     remap "__imp_TurboDispatchJumpAddressEnd" "__imp_wow64cpu$TurboDispatchJumpAddressEnd"

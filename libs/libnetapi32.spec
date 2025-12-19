@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_RxRemoteApi" "__imp_netapi32$RxRemoteApi"
     remap "__imp_RxNetUserPasswordSet" "__imp_netapi32$RxNetUserPasswordSet"

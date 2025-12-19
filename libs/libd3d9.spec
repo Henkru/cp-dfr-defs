@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ord_16" "__imp_d3d9$ord_16"
     remap "__imp_PSGPSampleTexture" "__imp_d3d9$PSGPSampleTexture"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WindowFromAccessibleObject" "__imp_oleacc$WindowFromAccessibleObject"
     remap "__imp_PropMgrClient_LookupProp" "__imp_oleacc$PropMgrClient_LookupProp"

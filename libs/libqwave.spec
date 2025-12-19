@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ServiceMain" "__imp_qwave$ServiceMain"
     remap "__imp_QOSStopTrackingClient" "__imp_qwave$QOSStopTrackingClient"

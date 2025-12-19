@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_TermSessionEx" "__imp_dbnetlib$TermSessionEx"
     remap "__imp_TermSession" "__imp_dbnetlib$TermSession"

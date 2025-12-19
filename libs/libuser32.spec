@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_wvsprintfW" "__imp_user32$wvsprintfW"
     remap "__imp_wvsprintfA" "__imp_user32$wvsprintfA"

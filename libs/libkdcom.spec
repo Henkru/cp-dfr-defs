@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_KdSetHiberRange" "__imp_kdcom$KdSetHiberRange"
     remap "__imp_KdSendPacket" "__imp_kdcom$KdSendPacket"

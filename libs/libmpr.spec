@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WNetUseConnectionW" "__imp_mpr$WNetUseConnectionW"
     remap "__imp_WNetUseConnectionA" "__imp_mpr$WNetUseConnectionA"

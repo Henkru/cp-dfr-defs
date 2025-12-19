@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_NormalizeString" "__imp_normaliz$NormalizeString"
     remap "__imp_IsNormalizedString" "__imp_normaliz$IsNormalizedString"

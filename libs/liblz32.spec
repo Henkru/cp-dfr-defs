@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_LZStart" "__imp_lz32$LZStart"
     remap "__imp_LZSeek" "__imp_lz32$LZSeek"

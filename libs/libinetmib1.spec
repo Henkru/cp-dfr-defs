@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SnmpExtensionTrap" "__imp_inetmib1$SnmpExtensionTrap"
     remap "__imp_SnmpExtensionQuery" "__imp_inetmib1$SnmpExtensionQuery"

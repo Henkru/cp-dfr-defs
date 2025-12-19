@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ConnectionWriteOOB" "__imp_dbnmpntw$ConnectionWriteOOB"
     remap "__imp_ConnectionWrite" "__imp_dbnmpntw$ConnectionWrite"

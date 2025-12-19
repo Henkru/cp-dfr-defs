@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_?kMaxValueLength@CIniW@@2KB" "__imp_cmutil$?kMaxValueLength@CIniW@@2KB"
     remap "__imp_?Write@CmLogFile@@AAEJPAG@Z" "__imp_cmutil$?Write@CmLogFile@@AAEJPAG@Z"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SetTunnelFilter" "__imp_winipsec$SetTunnelFilter"
     remap "__imp_SetTransportFilter" "__imp_winipsec$SetTransportFilter"

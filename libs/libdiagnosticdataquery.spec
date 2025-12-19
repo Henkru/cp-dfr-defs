@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UtcSendTraceLogging2" "__imp_diagnosticdataquery$UtcSendTraceLogging2"
     remap "__imp_UtcSendTraceLogging" "__imp_diagnosticdataquery$UtcSendTraceLogging"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_StopInteractionContext" "__imp_ninput$StopInteractionContext"
     remap "__imp_SetTranslationParameterInteractionContext" "__imp_ninput$SetTranslationParameterInteractionContext"

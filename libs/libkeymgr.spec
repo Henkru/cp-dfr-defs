@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_PRShowSaveWizardExW" "__imp_keymgr$PRShowSaveWizardExW"
     remap "__imp_PRShowSaveFromMsginaW" "__imp_keymgr$PRShowSaveFromMsginaW"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SetCustomTextOutHandlerEx" "__imp_msftedit$SetCustomTextOutHandlerEx"
     remap "__imp_RichListBoxWndProc" "__imp_msftedit$RichListBoxWndProc"

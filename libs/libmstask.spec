@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SetNetScheduleAccountInformation" "__imp_mstask$SetNetScheduleAccountInformation"
     remap "__imp_SASetNSAccountInformation" "__imp_mstask$SASetNSAccountInformation"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ScrRegGPOListToWbem" "__imp_gptext$ScrRegGPOListToWbem"
     remap "__imp_ProcessWIRELESSPolicyEx" "__imp_gptext$ProcessWIRELESSPolicyEx"

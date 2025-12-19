@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WritePwrScheme" "__imp_powrprof$WritePwrScheme"
     remap "__imp_WriteProcessorPwrScheme" "__imp_powrprof$WriteProcessorPwrScheme"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_pSetuplogSfcError" "__imp_syssetup$pSetuplogSfcError"
     remap "__imp_pSetupDebugPrint" "__imp_syssetup$pSetupDebugPrint"

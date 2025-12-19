@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_dbprtypeW" "__imp_odbcbcp$dbprtypeW"
     remap "__imp_dbprtypeA" "__imp_odbcbcp$dbprtypeA"

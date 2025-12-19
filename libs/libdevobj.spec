@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_DevObjUninstallDevice" "__imp_devobj$DevObjUninstallDevice"
     remap "__imp_DevObjSetDeviceRegistryProperty" "__imp_devobj$DevObjSetDeviceRegistryProperty"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_TestApplyPatchToFileW" "__imp_mspatcha$TestApplyPatchToFileW"
     remap "__imp_TestApplyPatchToFileByHandles" "__imp_mspatcha$TestApplyPatchToFileByHandles"

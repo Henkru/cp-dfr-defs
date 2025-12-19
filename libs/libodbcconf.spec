@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UnregisterApplication" "__imp_odbcconf$UnregisterApplication"
     remap "__imp_UnregW2KXPak" "__imp_odbcconf$UnregW2KXPak"

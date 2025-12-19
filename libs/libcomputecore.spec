@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_HcsWaitForProcessExit" "__imp_computecore$HcsWaitForProcessExit"
     remap "__imp_HcsWaitForOperationResultAndProcessInfo" "__imp_computecore$HcsWaitForOperationResultAndProcessInfo"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_DebugSetMute" "__imp_d3dcompiler_47$DebugSetMute"
     remap "__imp_D3DWriteBlobToFile" "__imp_d3dcompiler_47$D3DWriteBlobToFile"

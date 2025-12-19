@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_StopPPP" "__imp_rasppp$StopPPP"
     remap "__imp_StartPPP" "__imp_rasppp$StartPPP"

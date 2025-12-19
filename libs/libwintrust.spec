@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_mssip32DllUnregisterServer" "__imp_wintrust$mssip32DllUnregisterServer"
     remap "__imp_mssip32DllRegisterServer" "__imp_wintrust$mssip32DllRegisterServer"

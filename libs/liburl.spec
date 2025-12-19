@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_URLAssociationDialogW" "__imp_url$URLAssociationDialogW"
     remap "__imp_URLAssociationDialogA" "__imp_url$URLAssociationDialogA"

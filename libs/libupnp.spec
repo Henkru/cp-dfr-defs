@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_HrRehydratorInvokeServiceAction" "__imp_upnp$HrRehydratorInvokeServiceAction"
     remap "__imp_HrRehydratorCreateServiceObject" "__imp_upnp$HrRehydratorCreateServiceObject"

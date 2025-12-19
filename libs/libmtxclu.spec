@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WasDTCInstalledBySQL" "__imp_mtxclu$WasDTCInstalledBySQL"
     remap "__imp_Startup" "__imp_mtxclu$Startup"

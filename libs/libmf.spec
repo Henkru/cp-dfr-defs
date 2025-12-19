@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_MergePropertyStore" "__imp_mf$MergePropertyStore"
     remap "__imp_MFTranscodeGetAudioOutputAvailableTypes" "__imp_mf$MFTranscodeGetAudioOutputAvailableTypes"

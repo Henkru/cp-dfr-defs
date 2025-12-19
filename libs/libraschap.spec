@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_RasEapQueryUserBlobFromCredentialInputFields" "__imp_raschap$RasEapQueryUserBlobFromCredentialInputFields"
     remap "__imp_RasEapQueryUIBlobFromInteractiveUIInputFields" "__imp_raschap$RasEapQueryUIBlobFromInteractiveUIInputFields"

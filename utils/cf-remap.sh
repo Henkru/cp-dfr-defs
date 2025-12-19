@@ -35,5 +35,6 @@ for f in "$@"; do
   done <<< "$remaps"
 done
 
+echo "# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)"
 cat $remap64 $remap86
 rm $remap86 $remap64

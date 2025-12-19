@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SnmpMgrTrapListen" "__imp_mgmtapi$SnmpMgrTrapListen"
     remap "__imp_SnmpMgrStrToOid" "__imp_mgmtapi$SnmpMgrStrToOid"

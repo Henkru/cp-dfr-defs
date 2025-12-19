@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SedTakeOwnership" "__imp_acledit$SedTakeOwnership"
     remap "__imp_SedSystemAclEditor" "__imp_acledit$SedSystemAclEditor"

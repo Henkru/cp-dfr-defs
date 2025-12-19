@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_D2D1Vec3Length" "__imp_d2d1$D2D1Vec3Length"
     remap "__imp_D2D1Tan" "__imp_d2d1$D2D1Tan"

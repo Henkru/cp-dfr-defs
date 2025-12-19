@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_glsWritePrefix" "__imp_glmf32$glsWritePrefix"
     remap "__imp_glsWriteFunc" "__imp_glmf32$glsWriteFunc"

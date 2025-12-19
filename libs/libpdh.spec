@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_PdhWriteRelogSample" "__imp_pdh$PdhWriteRelogSample"
     remap "__imp_PdhVerifySQLDBW" "__imp_pdh$PdhVerifySQLDBW"

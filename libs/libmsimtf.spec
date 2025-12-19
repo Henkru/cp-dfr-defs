@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_MsimtfIsWindowFiltered" "__imp_msimtf$MsimtfIsWindowFiltered"
     remap "__imp_MsimtfIsGuidMapEnable" "__imp_msimtf$MsimtfIsGuidMapEnable"

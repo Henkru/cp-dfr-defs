@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_RasmanUninitialize" "__imp_rasman$RasmanUninitialize"
     remap "__imp_RasStartRasAutoIfRequired" "__imp_rasman$RasStartRasAutoIfRequired"

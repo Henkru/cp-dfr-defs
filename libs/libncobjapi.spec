@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WmiSetAndCommitObject" "__imp_ncobjapi$WmiSetAndCommitObject"
     remap "__imp_WmiIsObjectActive" "__imp_ncobjapi$WmiIsObjectActive"

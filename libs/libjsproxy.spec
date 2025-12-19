@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_InternetInitializeAutoProxyDllEx" "__imp_jsproxy$InternetInitializeAutoProxyDllEx"
     remap "__imp_InternetInitializeAutoProxyDll" "__imp_jsproxy$InternetInitializeAutoProxyDll"

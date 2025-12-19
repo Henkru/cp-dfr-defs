@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_PurgeDownloadDirectory" "__imp_inseng$PurgeDownloadDirectory"
     remap "__imp_GetICifRWFileFromFile" "__imp_inseng$GetICifRWFileFromFile"

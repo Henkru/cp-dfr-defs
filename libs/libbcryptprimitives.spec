@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_ProcessPrngGuid" "__imp_bcryptprimitives$ProcessPrngGuid"
     remap "__imp_ProcessPrng" "__imp_bcryptprimitives$ProcessPrng"

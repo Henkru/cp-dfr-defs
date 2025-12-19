@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_SetLabel" "__imp_fmifs$SetLabel"
     remap "__imp_QuerySupportedMedia" "__imp_fmifs$QuerySupportedMedia"

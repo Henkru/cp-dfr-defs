@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_TF_WaitForInitialized" "__imp_msctfmonitor$TF_WaitForInitialized"
     remap "__imp_TF_UnregisterLangBarAddIn" "__imp_msctfmonitor$TF_UnregisterLangBarAddIn"

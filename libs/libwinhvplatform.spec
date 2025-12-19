@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WHvWriteVpciDeviceRegister" "__imp_winhvplatform$WHvWriteVpciDeviceRegister"
     remap "__imp_WHvWriteGpaRange" "__imp_winhvplatform$WHvWriteGpaRange"

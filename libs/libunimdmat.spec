@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_UmWaveAction" "__imp_unimdmat$UmWaveAction"
     remap "__imp_UmSetSpeakerPhoneState" "__imp_unimdmat$UmSetSpeakerPhoneState"

@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_WsXmlStringEquals" "__imp_webservices$WsXmlStringEquals"
     remap "__imp_WsWriteXmlnsAttribute" "__imp_webservices$WsWriteXmlnsAttribute"

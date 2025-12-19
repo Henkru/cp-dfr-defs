@@ -1,3 +1,4 @@
+# Auto-generated DRF mapping (https://github.com/henkru/cp-dfr-defs)
 x64:
     remap "__imp_OfflineFilesStart" "__imp_cscapi$OfflineFilesStart"
     remap "__imp_OfflineFilesQueryStatusEx" "__imp_cscapi$OfflineFilesQueryStatusEx"
